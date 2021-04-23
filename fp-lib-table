@@ -4,4 +4,5 @@
   (lib (name MX_Alps_Hybrid)(type KiCad)(uri ${KIPRJMOD}/MX_Alps_Hybrid.pretty)(options "")(descr ""))
   (lib (name MX_Only)(type KiCad)(uri ${KIPRJMOD}/MX_Only.pretty)(options "")(descr ""))
   (lib (name MCU_RaspberryPi_and_Boards)(type KiCad)(uri ${KIPRJMOD}/MCU_RaspberryPi_and_Boards.pretty)(options "")(descr ""))
+  (lib (name AKLogo)(type KiCad)(uri ${KIPRJMOD}/Logo.pretty)(options "")(descr ""))
 )

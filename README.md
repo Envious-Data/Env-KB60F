@@ -1,6 +1,9 @@
 # Env-KB60F
  Another Custom Mechanical Keyboard... F stands for FOREHEAD!
 
+![PCBShot](Env-KB60F.png)
+
+
 ### Why?
 I may or may not be addicted to designing things in kicad but thats a topic we'll discuss another time...
 

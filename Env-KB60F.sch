@@ -2042,48 +2042,110 @@ Text GLabel 4500 7450 2    50   Input ~ 0
 GND
 Text GLabel 4500 7950 2    50   Input ~ 0
 GND
-Text GLabel 4500 7550 2    50   Input ~ 0
+Text GLabel 3100 7650 0    50   Input ~ 0
 row0
-Text GLabel 4500 7650 2    50   Input ~ 0
+Text GLabel 3100 7750 0    50   Input ~ 0
 row1
-Text GLabel 4500 7750 2    50   Input ~ 0
+Text GLabel 3100 7850 0    50   Input ~ 0
 row2
-Text GLabel 4500 7850 2    50   Input ~ 0
+Text GLabel 3100 8050 0    50   Input ~ 0
 row3
-Text GLabel 4500 8050 2    50   Input ~ 0
+Text GLabel 3100 8150 0    50   Input ~ 0
 row4
-Text GLabel 4500 8150 2    50   Input ~ 0
-row5
-Text GLabel 3100 6250 0    50   Input ~ 0
+Text GLabel 3100 7550 0    50   Input ~ 0
 col0
-Text GLabel 3100 6350 0    50   Input ~ 0
+Text GLabel 3100 7350 0    50   Input ~ 0
 col1
-Text GLabel 3100 6550 0    50   Input ~ 0
+Text GLabel 3100 7250 0    50   Input ~ 0
 col2
-Text GLabel 3100 6650 0    50   Input ~ 0
+Text GLabel 3100 7150 0    50   Input ~ 0
 col3
-Text GLabel 3100 6750 0    50   Input ~ 0
+Text GLabel 3100 7050 0    50   Input ~ 0
 col4
 Text GLabel 3100 6850 0    50   Input ~ 0
 col5
-Text GLabel 3100 7050 0    50   Input ~ 0
+Text GLabel 4500 8150 2    50   Input ~ 0
 col6
-Text GLabel 3100 7150 0    50   Input ~ 0
+Text GLabel 4500 8050 2    50   Input ~ 0
 col7
-Text GLabel 3100 7250 0    50   Input ~ 0
+Text GLabel 4500 7850 2    50   Input ~ 0
 col8
-Text GLabel 3100 7350 0    50   Input ~ 0
+Text GLabel 4500 7750 2    50   Input ~ 0
 col9
-Text GLabel 3100 7550 0    50   Input ~ 0
+Text GLabel 4500 7650 2    50   Input ~ 0
 col10
-Text GLabel 3100 7650 0    50   Input ~ 0
+Text GLabel 4500 7550 2    50   Input ~ 0
 col11
-Text GLabel 3100 7750 0    50   Input ~ 0
+Text GLabel 4500 7350 2    50   Input ~ 0
 col12
-Text GLabel 3100 7850 0    50   Input ~ 0
+Text GLabel 4500 7150 2    50   Input ~ 0
 col13
-Text GLabel 3100 8050 0    50   Input ~ 0
+Text GLabel 4500 7050 2    50   Input ~ 0
 col14
-Text GLabel 3100 8150 0    50   Input ~ 0
-col15
+$Comp
+L Mechanical:MountingHole H?
+U 1 1 60A3D400
+P 5600 6350
+F 0 "H?" H 5700 6396 50  0000 L CNN
+F 1 "MountingHole" H 5700 6305 50  0000 L CNN
+F 2 "" H 5600 6350 50  0001 C CNN
+F 3 "~" H 5600 6350 50  0001 C CNN
+	1    5600 6350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H?
+U 1 1 60A3E33F
+P 5600 6550
+F 0 "H?" H 5700 6596 50  0000 L CNN
+F 1 "MountingHole" H 5700 6505 50  0000 L CNN
+F 2 "" H 5600 6550 50  0001 C CNN
+F 3 "~" H 5600 6550 50  0001 C CNN
+	1    5600 6550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H?
+U 1 1 60A4E76C
+P 5600 6750
+F 0 "H?" H 5700 6796 50  0000 L CNN
+F 1 "MountingHole" H 5700 6705 50  0000 L CNN
+F 2 "" H 5600 6750 50  0001 C CNN
+F 3 "~" H 5600 6750 50  0001 C CNN
+	1    5600 6750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H?
+U 1 1 60A5EC63
+P 5600 6950
+F 0 "H?" H 5700 6996 50  0000 L CNN
+F 1 "MountingHole" H 5700 6905 50  0000 L CNN
+F 2 "" H 5600 6950 50  0001 C CNN
+F 3 "~" H 5600 6950 50  0001 C CNN
+	1    5600 6950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H?
+U 1 1 60A6F0BC
+P 5600 7150
+F 0 "H?" H 5700 7196 50  0000 L CNN
+F 1 "MountingHole" H 5700 7105 50  0000 L CNN
+F 2 "" H 5600 7150 50  0001 C CNN
+F 3 "~" H 5600 7150 50  0001 C CNN
+	1    5600 7150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H?
+U 1 1 60A7F4B8
+P 5600 7350
+F 0 "H?" H 5700 7396 50  0000 L CNN
+F 1 "MountingHole" H 5700 7305 50  0000 L CNN
+F 2 "" H 5600 7350 50  0001 C CNN
+F 3 "~" H 5600 7350 50  0001 C CNN
+	1    5600 7350
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
