@@ -2170,4 +2170,67 @@ F 3 "~" H 5600 7550 50  0001 C CNN
 	1    5600 7550
 	1    0    0    -1  
 $EndComp
+Text GLabel 4500 7250 2    50   Input ~ 0
+RUNPIN
+Text GLabel 3400 5750 0    50   Input ~ 0
+RUNPIN
+Text GLabel 4000 5750 2    50   Input ~ 0
+GND
+$Comp
+L PanasonicEVQ-P7A01P:EVQ-P7A01P SW1
+U 1 1 6096F576
+P 3900 5950
+F 0 "SW1" H 3900 5550 50  0000 L CNN
+F 1 "EVQ-P7A01P" H 3900 5450 50  0000 L CNN
+F 2 "PanasonicEVQ-P7A01P:Panasonic-EVQ-P7A01P-0-0-MFG" H 3900 6150 50  0001 L CNN
+F 3 "https://industrial.panasonic.com/cdbs/www-data/pdf/ATK0000/ATK0000C378.pdf" H 3900 6250 50  0001 L CNN
+F 4 "No" H 3900 6350 50  0001 L CNN "automotive"
+F 5 "Switch" H 3900 6450 50  0001 L CNN "category"
+F 6 "50mA" H 3900 6550 50  0001 L CNN "contact current rating"
+F 7 "500mΩ" H 3900 6650 50  0001 L CNN "contact resistance"
+F 8 "Electromechanical" H 3900 6750 50  0001 L CNN "device class L1"
+F 9 "Switches" H 3900 6850 50  0001 L CNN "device class L2"
+F 10 "Tactile Switches" H 3900 6950 50  0001 L CNN "device class L3"
+F 11 "SWITCH TACTILE SPST-NO 0.05A 12V" H 3900 7050 50  0001 L CNN "digikey description"
+F 12 "P16763CT-ND" H 3900 7150 50  0001 L CNN "digikey part number"
+F 13 "100000Cycles" H 3900 7250 50  0001 L CNN "electromechanical life"
+F 14 "1.55mm" H 3900 7350 50  0001 L CNN "height"
+F 15 "Yes" H 3900 7450 50  0001 L CNN "lead free"
+F 16 "2f293019bba4f771" H 3900 7550 50  0001 L CNN "library id"
+F 17 "Panasonic" H 3900 7650 50  0001 L CNN "manufacturer"
+F 18 "Surface Mount" H 3900 7750 50  0001 L CNN "mount"
+F 19 "SWITCH TACTILE SPST-NO 0.05A 12V" H 3900 7850 50  0001 L CNN "mouser description"
+F 20 "667-EVQP7A01P" H 3900 7950 50  0001 L CNN "mouser part number"
+F 21 "2.2N" H 3900 8050 50  0001 L CNN "operating force"
+F 22 "SMT_SW_3MM5_2MM9" H 3900 8150 50  0001 L CNN "package"
+F 23 "Yes" H 3900 8250 50  0001 L CNN "rohs"
+F 24 "+70°C" H 3900 8350 50  0001 L CNN "temperature range high"
+F 25 "-20°C" H 3900 8450 50  0001 L CNN "temperature range low"
+F 26 "SPST-NO" H 3900 8550 50  0001 L CNN "throw configuration"
+F 27 "12V" H 3900 8650 50  0001 L CNN "voltage rating DC"
+	1    3900 5950
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	3400 5750 3450 5750
+Wire Wire Line
+	3450 5750 3450 5650
+Wire Wire Line
+	3450 5650 3500 5650
+Wire Wire Line
+	3450 5750 3450 5850
+Wire Wire Line
+	3450 5850 3500 5850
+Connection ~ 3450 5750
+Wire Wire Line
+	3900 5850 3950 5850
+Wire Wire Line
+	3900 5650 3950 5650
+Wire Wire Line
+	3950 5650 3950 5750
+Wire Wire Line
+	4000 5750 3950 5750
+Connection ~ 3950 5750
+Wire Wire Line
+	3950 5750 3950 5850
 $EndSCHEMATC
