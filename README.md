@@ -11,6 +11,10 @@ Ive decided Im going to try to keep working on a GH60 compatible 60% but I also 
 
 
 ### DETAILS
-This will be a standard 60% ISO layout so you should be able to get a generic 60% plate made or bought and It'll fit.
+Right so as of right now with current progress on this project:
+- ISO/Ansi support!
+- Sandwich Case needs to be worked on some but I have atleast the plate done.
 
-Once again we'll use the RPI PICO and KMK for now and also Ill eventually get around to adding SVGs/DXFs for laser cut cases.
+- Getting PCBs made.
+- Building and tesing of KB and creating the keymap.
+
