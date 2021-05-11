@@ -2265,17 +2265,6 @@ F 3 "~" H 6400 6750 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Mechanical:MountingHole H8
-U 1 1 60938A01
-P 6400 6950
-F 0 "H8" H 6500 6996 50  0000 L CNN
-F 1 "MountingHole" H 6500 6905 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.1mm" H 6400 6950 50  0001 C CNN
-F 3 "~" H 6400 6950 50  0001 C CNN
-	1    6400 6950
-	1    0    0    -1  
-$EndComp
-$Comp
 L MX_Alps_Hybrid:MX-NoLED K_29
 U 1 1 6095DC17
 P 15350 2950
