@@ -3,4 +3,5 @@
   (lib (name MCU_RaspberryPi_and_Boards)(type Legacy)(uri ${KIPRJMOD}/MCU_RaspberryPi_and_Boards.pretty/MCU_RaspberryPi_and_Boards.lib)(options "")(descr ""))
   (lib (name logo)(type Legacy)(uri ${KIPRJMOD}/Logo.pretty/logo.lib)(options "")(descr ""))
   (lib (name PanasonicEVQ-P7A01P)(type Legacy)(uri C:/Users/Envy/Documents/GitHub/Env-KB60F/PanasonicEVQ-P7A01P/eec.lib)(options "")(descr ""))
+  (lib (name Type-C)(type Legacy)(uri ${KIPRJMOD}/HRO-TYPE-C31-M-12.pretty/Type-C.lib)(options "")(descr ""))
 )

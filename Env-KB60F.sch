@@ -2018,67 +2018,67 @@ Wire Wire Line
 $Comp
 L MCU_RaspberryPi_and_Boards:Pico U1
 U 1 1 6095EAE7
-P 3800 7200
-F 0 "U1" H 3800 8415 50  0000 C CNN
-F 1 "Pico" H 3800 8324 50  0000 C CNN
-F 2 "MCU_RaspberryPi_and_Boards:RPi_Pico_SMD_TH" V 3800 7200 50  0001 C CNN
-F 3 "" H 3800 7200 50  0001 C CNN
-	1    3800 7200
+P 3500 8150
+F 0 "U1" H 4050 9300 50  0000 C CNN
+F 1 "Pico" H 3900 9300 50  0000 C CNN
+F 2 "MCU_RaspberryPi_and_Boards:RPi_Pico_SMD_TH" V 3500 8150 50  0001 C CNN
+F 3 "" H 3500 8150 50  0001 C CNN
+	1    3500 8150
 	1    0    0    -1  
 $EndComp
-Text GLabel 3100 6950 0    50   Input ~ 0
+Text GLabel 2800 7900 0    50   Input ~ 0
 GND
-Text GLabel 3100 7450 0    50   Input ~ 0
+Text GLabel 2800 8400 0    50   Input ~ 0
 GND
-Text GLabel 3100 7950 0    50   Input ~ 0
+Text GLabel 2800 8900 0    50   Input ~ 0
 GND
-Text GLabel 3100 6450 0    50   Input ~ 0
+Text GLabel 2800 7400 0    50   Input ~ 0
 GND
-Text GLabel 4500 6450 2    50   Input ~ 0
+Text GLabel 4200 7400 2    50   Input ~ 0
 GND
-Text GLabel 4500 7450 2    50   Input ~ 0
+Text GLabel 4200 8400 2    50   Input ~ 0
 GND
-Text GLabel 4500 7950 2    50   Input ~ 0
+Text GLabel 4200 8900 2    50   Input ~ 0
 GND
-Text GLabel 3100 7650 0    50   Input ~ 0
+Text GLabel 2800 8600 0    50   Input ~ 0
 row0
-Text GLabel 3100 7750 0    50   Input ~ 0
+Text GLabel 2800 8700 0    50   Input ~ 0
 row1
-Text GLabel 3100 7850 0    50   Input ~ 0
+Text GLabel 2800 8800 0    50   Input ~ 0
 row2
-Text GLabel 3100 8050 0    50   Input ~ 0
+Text GLabel 2800 9000 0    50   Input ~ 0
 row3
-Text GLabel 3100 8150 0    50   Input ~ 0
+Text GLabel 2800 9100 0    50   Input ~ 0
 row4
-Text GLabel 3100 7550 0    50   Input ~ 0
+Text GLabel 2800 8500 0    50   Input ~ 0
 col0
-Text GLabel 3100 7350 0    50   Input ~ 0
+Text GLabel 2800 8300 0    50   Input ~ 0
 col1
-Text GLabel 3100 7250 0    50   Input ~ 0
+Text GLabel 2800 8200 0    50   Input ~ 0
 col2
-Text GLabel 3100 7150 0    50   Input ~ 0
+Text GLabel 2800 8100 0    50   Input ~ 0
 col3
-Text GLabel 3100 7050 0    50   Input ~ 0
+Text GLabel 2800 8000 0    50   Input ~ 0
 col4
-Text GLabel 3100 6850 0    50   Input ~ 0
+Text GLabel 2800 7800 0    50   Input ~ 0
 col5
-Text GLabel 4500 8150 2    50   Input ~ 0
+Text GLabel 4200 9100 2    50   Input ~ 0
 col6
-Text GLabel 4500 8050 2    50   Input ~ 0
+Text GLabel 4200 9000 2    50   Input ~ 0
 col7
-Text GLabel 4500 7850 2    50   Input ~ 0
+Text GLabel 4200 8800 2    50   Input ~ 0
 col8
-Text GLabel 4500 7750 2    50   Input ~ 0
+Text GLabel 4200 8700 2    50   Input ~ 0
 col9
-Text GLabel 4500 7650 2    50   Input ~ 0
+Text GLabel 4200 8600 2    50   Input ~ 0
 col10
-Text GLabel 4500 7550 2    50   Input ~ 0
+Text GLabel 4200 8500 2    50   Input ~ 0
 col11
-Text GLabel 4500 7350 2    50   Input ~ 0
+Text GLabel 4200 8300 2    50   Input ~ 0
 col12
-Text GLabel 4500 7150 2    50   Input ~ 0
+Text GLabel 4200 8100 2    50   Input ~ 0
 col13
-Text GLabel 4500 7050 2    50   Input ~ 0
+Text GLabel 4200 8000 2    50   Input ~ 0
 col14
 $Comp
 L logo:LOGO #G1
@@ -2168,7 +2168,7 @@ F 3 "~" H 5600 7550 50  0001 C CNN
 	1    5600 7550
 	1    0    0    -1  
 $EndComp
-Text GLabel 4500 7250 2    50   Input ~ 0
+Text GLabel 4200 8200 2    50   Input ~ 0
 RUNPIN
 Text GLabel 3400 5750 0    50   Input ~ 0
 RUNPIN
@@ -2346,4 +2346,91 @@ Text Notes 15300 2650 0    50   ~ 0
 ANSI Enter
 Text Notes 1200 3700 0    50   ~ 0
 ANSI Left Shift
+$Comp
+L Type-C:HRO-TYPE-C-31-M-12 USB1
+U 1 1 60A58FC0
+P 1700 6900
+F 0 "USB1" H 1533 7697 60  0000 C CNN
+F 1 "HRO-TYPE-C-31-M-12" H 1533 7591 60  0000 C CNN
+F 2 "HRO-TYPE-C31-M-12:HRO-TYPE-C-31-M-12" H 1700 6900 60  0001 C CNN
+F 3 "" H 1700 6900 60  0001 C CNN
+	1    1700 6900
+	1    0    0    -1  
+$EndComp
+Text GLabel 3600 7000 1    50   Input ~ 0
+USB2_P
+Text GLabel 3450 7000 1    50   Input ~ 0
+USB2_N
+Text GLabel 1800 6750 2    50   Input ~ 0
+USB2_N
+Text GLabel 1800 6950 2    50   Input ~ 0
+USB2_N
+Text GLabel 1800 6850 2    50   Input ~ 0
+USB2_P
+Text GLabel 1800 7050 2    50   Input ~ 0
+USB2_P
+$Comp
+L Device:R_Small 5.1K2
+U 1 1 60AAC80F
+P 1900 7250
+F 0 "5.1K2" V 1900 7250 20  0000 C CNN
+F 1 "R_Small" V 1850 7250 20  0000 C CNN
+F 2 "Resistor_SMD:R_0201_0603Metric" H 1900 7250 50  0001 C CNN
+F 3 "~" H 1900 7250 50  0001 C CNN
+	1    1900 7250
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R_Small 5.1K1
+U 1 1 60AAF05F
+P 1900 6650
+F 0 "5.1K1" V 1900 6650 20  0000 C CNN
+F 1 "R_Small" V 1950 6650 20  0000 C CNN
+F 2 "Resistor_SMD:R_0201_0603Metric" H 1900 6650 50  0001 C CNN
+F 3 "~" H 1900 6650 50  0001 C CNN
+	1    1900 6650
+	0    -1   -1   0   
+$EndComp
+Text GLabel 1800 7450 2    50   Input ~ 0
+GND
+Text GLabel 1800 6350 2    50   Input ~ 0
+GND
+Text GLabel 2000 7250 2    50   Input ~ 0
+GND
+Text GLabel 2000 6650 2    50   Input ~ 0
+GND
+$Comp
+L Connector_Generic:Conn_01x01 J1
+U 1 1 60B4329C
+P 3750 6200
+F 0 "J1" H 3830 6242 50  0000 L CNN
+F 1 "TP3 Pad" H 3830 6151 50  0000 L CNN
+F 2 "TestPoint:TestPoint_Pad_1.0x1.0mm" H 3750 6200 50  0001 C CNN
+F 3 "~" H 3750 6200 50  0001 C CNN
+	1    3750 6200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 J2
+U 1 1 60B44B24
+P 3750 6350
+F 0 "J2" H 3830 6392 50  0000 L CNN
+F 1 "TP2 Pad" H 3830 6301 50  0000 L CNN
+F 2 "TestPoint:TestPoint_Pad_1.0x1.0mm" H 3750 6350 50  0001 C CNN
+F 3 "~" H 3750 6350 50  0001 C CNN
+	1    3750 6350
+	1    0    0    -1  
+$EndComp
+Text GLabel 3550 6200 0    50   Input ~ 0
+USB2_N
+Text GLabel 3550 6350 0    50   Input ~ 0
+USB2_P
+Text GLabel 1800 7550 2    50   Input ~ 0
+GND
+Text GLabel 1800 7350 2    50   Input ~ 0
+VBUS
+Text GLabel 1800 6450 2    50   Input ~ 0
+VBUS
+Text GLabel 4200 7200 2    50   Input ~ 0
+VBUS
 $EndSCHEMATC
