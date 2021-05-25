@@ -5,6 +5,6 @@
   (lib (name MX_Only)(type KiCad)(uri ${KIPRJMOD}/MX_Only.pretty)(options "")(descr ""))
   (lib (name MCU_RaspberryPi_and_Boards)(type KiCad)(uri ${KIPRJMOD}/MCU_RaspberryPi_and_Boards.pretty)(options "")(descr ""))
   (lib (name AKLogo)(type KiCad)(uri ${KIPRJMOD}/Logo.pretty)(options "")(descr ""))
-  (lib (name PanasonicEVQ-P7A01P)(type KiCad)(uri C:/Users/Envy/Documents/GitHub/Env-KB60F/PanasonicEVQ-P7A01P/eec.pretty)(options "")(descr ""))
   (lib (name HRO-TYPE-C31-M-12)(type KiCad)(uri ${KIPRJMOD}/HRO-TYPE-C31-M-12.pretty)(options "")(descr ""))
+  (lib (name eec)(type KiCad)(uri ${KIPRJMOD}/PanasonicEVQ-P7A01P/eec.pretty)(options "")(descr ""))
 )
