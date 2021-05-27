@@ -2,7 +2,7 @@
 <export version="D">
   <design>
     <source>C:\Users\Envy\Documents\GitHub\Env-KB60F\MainPCB\Env-KB60F.sch</source>
-    <date>25/05/2021 02:03:46</date>
+    <date>27/05/2021 06:28:57</date>
     <tool>Eeschema (5.1.9)-1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -1016,32 +1016,6 @@
       <value>EVQ-P7A01P</value>
       <footprint>PanasonicEVQ-P7A01P:Panasonic-EVQ-P7A01P-0-0-MFG</footprint>
       <datasheet>https://industrial.panasonic.com/cdbs/www-data/pdf/ATK0000/ATK0000C378.pdf</datasheet>
-      <fields>
-        <field name="automotive">No</field>
-        <field name="category">Switch</field>
-        <field name="contact current rating">50mA</field>
-        <field name="contact resistance">500mΩ</field>
-        <field name="device class L1">Electromechanical</field>
-        <field name="device class L2">Switches</field>
-        <field name="device class L3">Tactile Switches</field>
-        <field name="digikey description">SWITCH TACTILE SPST-NO 0.05A 12V</field>
-        <field name="digikey part number">P16763CT-ND</field>
-        <field name="electromechanical life">100000Cycles</field>
-        <field name="height">1.55mm</field>
-        <field name="lead free">Yes</field>
-        <field name="library id">2f293019bba4f771</field>
-        <field name="manufacturer">Panasonic</field>
-        <field name="mount">Surface Mount</field>
-        <field name="mouser description">SWITCH TACTILE SPST-NO 0.05A 12V</field>
-        <field name="mouser part number">667-EVQP7A01P</field>
-        <field name="operating force">2.2N</field>
-        <field name="package">SMT_SW_3MM5_2MM9</field>
-        <field name="rohs">Yes</field>
-        <field name="temperature range high">+70°C</field>
-        <field name="temperature range low">-20°C</field>
-        <field name="throw configuration">SPST-NO</field>
-        <field name="voltage rating DC">12V</field>
-      </fields>
       <libsource lib="Env-KB60F-rescue" part="EVQ-P7A01P-PanasonicEVQ-P7A01P" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>6096F576</tstamp>
