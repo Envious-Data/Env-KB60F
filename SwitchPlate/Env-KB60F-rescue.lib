@@ -1,0 +1,48 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# EVQ-P7A01P-PanasonicEVQ-P7A01P
+#
+DEF EVQ-P7A01P-PanasonicEVQ-P7A01P SW 0 40 Y Y 1 L N
+F0 "SW" 0 0 50 H V L CNN
+F1 "EVQ-P7A01P-PanasonicEVQ-P7A01P" 0 100 50 H V L CNN
+F2 "Panasonic-EVQ-P7A01P-0-0-*" 0 200 50 H I L CNN
+F3 "https://industrial.panasonic.com/cdbs/www-data/pdf/ATK0000/ATK0000C378.pdf" 0 300 50 H I L CNN
+F4 "No" 0 400 50 H I L CNN "automotive"
+F5 "Switch" 0 500 50 H I L CNN "category"
+F6 "50mA" 0 600 50 H I L CNN "contact current rating"
+F7 "500mΩ" 0 700 50 H I L CNN "contact resistance"
+F8 "Electromechanical" 0 800 50 H I L CNN "device class L1"
+F9 "Switches" 0 900 50 H I L CNN "device class L2"
+F10 "Tactile Switches" 0 1000 50 H I L CNN "device class L3"
+F11 "SWITCH TACTILE SPST-NO 0.05A 12V" 0 1100 50 H I L CNN "digikey description"
+F12 "P16763CT-ND" 0 1200 50 H I L CNN "digikey part number"
+F13 "100000Cycles" 0 1300 50 H I L CNN "electromechanical life"
+F14 "1.55mm" 0 1400 50 H I L CNN "height"
+F15 "Yes" 0 1500 50 H I L CNN "lead free"
+F16 "2f293019bba4f771" 0 1600 50 H I L CNN "library id"
+F17 "Panasonic" 0 1700 50 H I L CNN "manufacturer"
+F18 "Surface Mount" 0 1800 50 H I L CNN "mount"
+F19 "SWITCH TACTILE SPST-NO 0.05A 12V" 0 1900 50 H I L CNN "mouser description"
+F20 "667-EVQP7A01P" 0 2000 50 H I L CNN "mouser part number"
+F21 "2.2N" 0 2100 50 H I L CNN "operating force"
+F22 "SMT_SW_3MM5_2MM9" 0 2200 50 H I L CNN "package"
+F23 "Yes" 0 2300 50 H I L CNN "rohs"
+F24 "+70°C" 0 2400 50 H I L CNN "temperature range high"
+F25 "-20°C" 0 2500 50 H I L CNN "temperature range low"
+F26 "SPST-NO" 0 2600 50 H I L CNN "throw configuration"
+F27 "12V" 0 2700 50 H I L CNN "voltage rating DC"
+DRAW
+C 130 -200 20 1 1 0 N
+C 270 -200 20 1 1 0 N
+P 2 1 1 0 0 -200 100 -200 N
+P 2 1 1 0 150 -190 250 -130 N
+P 2 1 1 0 400 -200 300 -200 N
+X 1 1 400 -300 200 U 40 0 1 1 P
+X 1' 1' 400 -100 200 D 40 0 1 1 P
+X 2 2 0 -300 200 U 40 0 1 1 P
+X 2' 2' 0 -100 200 D 40 0 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library
