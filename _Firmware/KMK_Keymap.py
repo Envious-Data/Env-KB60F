@@ -1,16 +1,21 @@
-#PiPi-GHERKIN - Raspberry Pi PICO
-#Rpi pico keyboard keymap, I used the gherkin keymap as a example :)
+print("Starting")
+
 import board
-from kmk.keys import KC
+
 from kmk.kmk_keyboard import KMKKeyboard
+from kmk.keys import KC
 from kmk.matrix import DiodeOrientation
-from kmk.hid import HIDModes
+from kmk.modules.layers import Layers
 
 envkb = KMKKeyboard()
 envkb.col_pins = (board.GP10, board.GP9, board.GP8, board.GP7, board.GP6, board.GP5, board.GP16, board.GP17, board.GP18, board.GP19, board.GP20, board.GP21, board.GP22, board.GP26, board.GP27)
 envkb.row_pins = (board.GP11, board.GP12, board.GP13, board.GP14, board.GP15)
 envkb.diode_orientation = DiodeOrientation.COLUMNS
 envkb.debug_enabled = True
+
+layers = Layers()
+envkb.modules = [layers]
+
 nokey = KC.NO
 envkb.keymap = [
     [
@@ -38,18 +43,21 @@ led.direction = digitalio.Direction.OUTPUT
 led.value = True
 #At this point once the LED is enabled the keyboard should be usable
 
+
 def usbfunc():
+    
     if __name__ == '__main__':
-        envkb.go(hid_type=HIDModes.USB) #Wired USB enable
+        envkb.go()
         raise Exception('Something has caused an error.')
         
 try:
     usbfunc()
 except Exception as e:
-    import supervisor
+    import microcontroller
     print(e)
     led.value = False
-    supervisor.reload()
+    microcontroller.reset()
 
-supervisor.reload()
+import microcontroller
+microcontroller.reset()
 #last ditch effor to reset the MCU, if this is being ran then something really is wrong lol
