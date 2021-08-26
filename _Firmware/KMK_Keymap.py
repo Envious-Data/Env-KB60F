@@ -26,7 +26,7 @@ led.value = False #make sure this is false by default
 def capslockled(*args, **kwargs):
     led.value = not led.value #not current value so it acts like a toggle
 
-KC.CAPS.before_press_handler(capslockled) 
+KC.CAPS.after_press_handler(capslockled) 
 #when capslock is pressed run caspslockled function
 
 nokey = KC.NO
@@ -42,7 +42,7 @@ envkb.keymap = [
     [
     #Layer 1
         KC.ESC, KC.F1, KC.F2, KC.F3, KC.F4, KC.F5, KC.F6, KC.F7, KC.F8, KC.F9, KC.F10, KC.F11, KC.F12, nokey, KC.DEL,
-        KC.TAB, nokey, KC.Q, KC.UP, KC.E, KC.R, KC.T, KC.Y, KC.U, KC.I, KC.O, KC.P, KC.LBRC, KC.PSCR, KC.BSLASH,
+        KC.TAB, nokey, KC.Q, KC.UP, KC.E, KC.R, KC.T, KC.Y, KC.U, KC.I, KC.O, KC.PSCR, KC.PGDN, KC.PGUP, KC.BSLASH,
         KC.CAPS, nokey, KC.LEFT, KC.DOWN, KC.RIGHT, KC.F, KC.G, KC.H, KC.J, KC.K, KC.L, KC.SCLN, KC.HOME, KC.END, KC.ENT, 
         KC.LSFT, KC.NONUS_BSLASH, KC.Z, KC.X, KC.C, KC.V, KC.B, KC.N, KC.M, KC.COMM, KC.DOT, KC.SLSH, nokey, KC.RSHIFT, nokey,
         KC.LCTL, KC.LGUI, nokey, KC.LALT, nokey, nokey, KC.SPC, nokey, nokey, nokey, KC.RALT, KC.RGUI, nokey, KC.TRNS, KC.RCTL, nokey, nokey,
