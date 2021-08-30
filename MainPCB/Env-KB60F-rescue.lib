@@ -1,11 +1,11 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
-# EVQ-P7A01P-PanasonicEVQ-P7A01P
+# EVQ-P7A01P-PanasonicEVQ-P7A01P-Env-KB60F-rescue
 #
-DEF EVQ-P7A01P-PanasonicEVQ-P7A01P SW 0 40 Y Y 1 L N
+DEF EVQ-P7A01P-PanasonicEVQ-P7A01P-Env-KB60F-rescue SW 0 40 Y Y 1 L N
 F0 "SW" 0 0 50 H V L CNN
-F1 "EVQ-P7A01P-PanasonicEVQ-P7A01P" 0 100 50 H V L CNN
+F1 "EVQ-P7A01P-PanasonicEVQ-P7A01P-Env-KB60F-rescue" 0 100 50 H V L CNN
 F2 "Panasonic-EVQ-P7A01P-0-0-*" 0 200 50 H I L CNN
 F3 "https://industrial.panasonic.com/cdbs/www-data/pdf/ATK0000/ATK0000C378.pdf" 0 300 50 H I L CNN
 F4 "No" 0 400 50 H I L CNN "automotive"
