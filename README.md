@@ -9,15 +9,13 @@
 
 ### About!
 This is a simple-ish 60% design using a Raspberry Pi Pico. Its a standard 60% layout supporting ANSI and ISO.
-
 Optionally if you have your own PCBs made you can use some pogo pins with a 1mm post to connect the TP pads on the underside of a raspberry pi pico, This will allow functionality of the USB type-c port if populated.
+
+alternatively if you pick up the RP2040 version there is onboard USB and spare GPIOs so you can wire up what ever else you wish.
 
 
 ### DETAILS
-Right so as of right now with current progress on this project:
-[x] ~~ISO/Ansi support!~~
-[x] ~~Sandwich Case needs to be worked on some but I have atleast the plate done.~~
+So update as of 30th of August 2021
 
-- Getting PCBs made.
-- Building and tesing of KB and creating the keymap.
+Im typing this on the first batch of PCBs ive ordered and ive made the KMK Keymap for this keyboard, for the boards I ordered I chose to not have USB installed to keep the cost down.
 
