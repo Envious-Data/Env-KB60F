@@ -2920,10 +2920,10 @@ F 3 "" H 14800 7000 50  0001 C CNN
 	1    14800 7000
 	1    0    0    -1  
 $EndComp
-Text Label 14100 7100 0    50   ~ 0
+Text Label 14100 6900 0    50   ~ 0
 SWD
 Wire Wire Line
-	14100 7100 14600 7100
+	14100 6900 14600 6900
 $Comp
 L power:GND #PWR034
 U 1 1 60D5FB1F
@@ -2936,8 +2936,8 @@ F 3 "" H 14600 7000 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	14600 6900 14100 6900
-Text Label 14100 6900 0    50   ~ 0
+	14600 7100 14100 7100
+Text Label 14100 7100 0    50   ~ 0
 SWCLK
 Text Label 2150 4950 0    50   ~ 0
 QSPI_SS
@@ -3769,4 +3769,79 @@ F 3 "" H 21850 8650 50  0001 C CNN
 	1    21850 8650
 	0    1    1    0   
 $EndComp
+Text GLabel 9650 4400 2    50   Input ~ 0
+row4
+Text GLabel 9650 4600 2    50   Input ~ 0
+row2
+Text GLabel 9650 4700 2    50   Input ~ 0
+row1
+Text GLabel 9650 4800 2    50   Input ~ 0
+row0
+Text GLabel 9650 4500 2    50   Input ~ 0
+row3
+Text GLabel 9650 4900 2    50   Input ~ 0
+col0
+Text GLabel 9650 5000 2    50   Input ~ 0
+col1
+Text GLabel 9650 5100 2    50   Input ~ 0
+col2
+Text GLabel 9650 5200 2    50   Input ~ 0
+col3
+Text GLabel 9650 5300 2    50   Input ~ 0
+col4
+Text GLabel 9650 5400 2    50   Input ~ 0
+col5
+Text GLabel 9650 5500 2    50   Input ~ 0
+col6
+Text GLabel 9650 5600 2    50   Input ~ 0
+col7
+Text GLabel 9650 5700 2    50   Input ~ 0
+col8
+Text GLabel 9650 5800 2    50   Input ~ 0
+col9
+Text GLabel 9650 5900 2    50   Input ~ 0
+col10
+Text GLabel 9650 6000 2    50   Input ~ 0
+col11
+Text GLabel 9650 6100 2    50   Input ~ 0
+col12
+Text GLabel 9650 6200 2    50   Input ~ 0
+col13
+Text GLabel 9650 6300 2    50   Input ~ 0
+col14
+$Comp
+L Connector_Generic:Conn_01x06 J3
+U 1 1 613572DC
+P 10550 6950
+F 0 "J3" H 10630 6942 50  0000 L CNN
+F 1 "Conn_01x06" H 10630 6851 50  0000 L CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical" H 10550 6950 50  0001 C CNN
+F 3 "~" H 10550 6950 50  0001 C CNN
+	1    10550 6950
+	1    0    0    -1  
+$EndComp
+Text GLabel 10350 6750 0    50   Input ~ 0
+GP20
+Text GLabel 10350 6850 0    50   Input ~ 0
+GP21
+Text GLabel 10350 6950 0    50   Input ~ 0
+GP22
+Text GLabel 10350 7050 0    50   Input ~ 0
+GP26
+Text GLabel 10350 7150 0    50   Input ~ 0
+GP27
+Text GLabel 10350 7250 0    50   Input ~ 0
+GP28
+Text GLabel 9650 6400 2    50   Input ~ 0
+GP20
+Text GLabel 9650 6500 2    50   Input ~ 0
+GP21
+Text GLabel 9650 6600 2    50   Input ~ 0
+GP22
+Text GLabel 9650 7100 2    50   Input ~ 0
+GP26
+Text GLabel 9650 7200 2    50   Input ~ 0
+GP27
+Text GLabel 9650 7300 2    50   Input ~ 0
+GP28
 $EndSCHEMATC
