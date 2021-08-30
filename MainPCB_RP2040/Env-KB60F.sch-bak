@@ -2920,10 +2920,10 @@ F 3 "" H 14800 7000 50  0001 C CNN
 	1    14800 7000
 	1    0    0    -1  
 $EndComp
-Text Label 14100 7100 0    50   ~ 0
+Text Label 14100 6900 0    50   ~ 0
 SWD
 Wire Wire Line
-	14100 7100 14600 7100
+	14100 6900 14600 6900
 $Comp
 L power:GND #PWR034
 U 1 1 60D5FB1F
@@ -2936,8 +2936,8 @@ F 3 "" H 14600 7000 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	14600 6900 14100 6900
-Text Label 14100 6900 0    50   ~ 0
+	14600 7100 14100 7100
+Text Label 14100 7100 0    50   ~ 0
 SWCLK
 Text Label 2150 4950 0    50   ~ 0
 QSPI_SS
@@ -3810,10 +3810,10 @@ col13
 Text GLabel 9650 6300 2    50   Input ~ 0
 col14
 $Comp
-L Connector_Generic:Conn_01x06 J?
+L Connector_Generic:Conn_01x06 J3
 U 1 1 613572DC
 P 10550 6950
-F 0 "J?" H 10630 6942 50  0000 L CNN
+F 0 "J3" H 10630 6942 50  0000 L CNN
 F 1 "Conn_01x06" H 10630 6851 50  0000 L CNN
 F 2 "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical" H 10550 6950 50  0001 C CNN
 F 3 "~" H 10550 6950 50  0001 C CNN

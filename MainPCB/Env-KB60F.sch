@@ -2091,83 +2091,6 @@ F 3 "" H 5350 8550 50  0001 C CNN
 	1    5350 8550
 	1    0    0    -1  
 $EndComp
-$Comp
-L Mechanical:MountingHole H1
-U 1 1 608AB119
-P 5600 6350
-F 0 "H1" H 5700 6396 50  0000 L CNN
-F 1 "MountingHole" H 5700 6305 50  0000 L CNN
-F 2 "AKLogo:MountingHole_2.2mm_M2-MODIFIED" H 5600 6350 50  0001 C CNN
-F 3 "~" H 5600 6350 50  0001 C CNN
-	1    5600 6350
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H3
-U 1 1 608ACB73
-P 5600 6550
-F 0 "H3" H 5700 6596 50  0000 L CNN
-F 1 "MountingHole" H 5700 6505 50  0000 L CNN
-F 2 "AKLogo:MountingHole_2.2mm_M2-MODIFIED" H 5600 6550 50  0001 C CNN
-F 3 "~" H 5600 6550 50  0001 C CNN
-	1    5600 6550
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H5
-U 1 1 608BCF9C
-P 5600 6750
-F 0 "H5" H 5700 6796 50  0000 L CNN
-F 1 "MountingHole" H 5700 6705 50  0000 L CNN
-F 2 "AKLogo:MountingHole_2.2mm_M2-MODIFIED" H 5600 6750 50  0001 C CNN
-F 3 "~" H 5600 6750 50  0001 C CNN
-	1    5600 6750
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H7
-U 1 1 608CD285
-P 5600 6950
-F 0 "H7" H 5700 6996 50  0000 L CNN
-F 1 "MountingHole" H 5700 6905 50  0000 L CNN
-F 2 "AKLogo:MountingHole_2.2mm_M2-MODIFIED" H 5600 6950 50  0001 C CNN
-F 3 "~" H 5600 6950 50  0001 C CNN
-	1    5600 6950
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H9
-U 1 1 608DD691
-P 5600 7150
-F 0 "H9" H 5700 7196 50  0000 L CNN
-F 1 "MountingHole" H 5700 7105 50  0000 L CNN
-F 2 "AKLogo:MountingHole_2.2mm_M2-MODIFIED" H 5600 7150 50  0001 C CNN
-F 3 "~" H 5600 7150 50  0001 C CNN
-	1    5600 7150
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H10
-U 1 1 608EDB63
-P 5600 7350
-F 0 "H10" H 5700 7396 50  0000 L CNN
-F 1 "MountingHole" H 5700 7305 50  0000 L CNN
-F 2 "AKLogo:MountingHole_2.2mm_M2-MODIFIED" H 5600 7350 50  0001 C CNN
-F 3 "~" H 5600 7350 50  0001 C CNN
-	1    5600 7350
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H11
-U 1 1 609431FD
-P 5600 7550
-F 0 "H11" H 5700 7596 50  0000 L CNN
-F 1 "MountingHole" H 5700 7505 50  0000 L CNN
-F 2 "AKLogo:MountingHole_2.2mm_M2-MODIFIED" H 5600 7550 50  0001 C CNN
-F 3 "~" H 5600 7550 50  0001 C CNN
-	1    5600 7550
-	1    0    0    -1  
-$EndComp
 Text GLabel 4200 8200 2    50   Input ~ 0
 RUNPIN
 Text GLabel 3400 5750 0    50   Input ~ 0
@@ -2207,39 +2130,6 @@ Wire Wire Line
 Connection ~ 3950 5750
 Wire Wire Line
 	3950 5750 3950 5850
-$Comp
-L Mechanical:MountingHole H2
-U 1 1 609389EF
-P 6400 6350
-F 0 "H2" H 6500 6396 50  0000 L CNN
-F 1 "MountingHole" H 6500 6305 50  0000 L CNN
-F 2 "AKLogo:MountingHole_2.2mm_M2-MODIFIED" H 6400 6350 50  0001 C CNN
-F 3 "~" H 6400 6350 50  0001 C CNN
-	1    6400 6350
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H4
-U 1 1 609389F5
-P 6400 6550
-F 0 "H4" H 6500 6596 50  0000 L CNN
-F 1 "MountingHole" H 6500 6505 50  0000 L CNN
-F 2 "AKLogo:MountingHole_2.2mm_M2-MODIFIED" H 6400 6550 50  0001 C CNN
-F 3 "~" H 6400 6550 50  0001 C CNN
-	1    6400 6550
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H6
-U 1 1 609389FB
-P 6400 6750
-F 0 "H6" H 6500 6796 50  0000 L CNN
-F 1 "MountingHole" H 6500 6705 50  0000 L CNN
-F 2 "AKLogo:MountingHole_2.2mm_M2-MODIFIED" H 6400 6750 50  0001 C CNN
-F 3 "~" H 6400 6750 50  0001 C CNN
-	1    6400 6750
-	1    0    0    -1  
-$EndComp
 $Comp
 L MX_Alps_Hybrid:MX-NoLED K_29
 U 1 1 6095DC17
@@ -2473,4 +2363,154 @@ Wire Wire Line
 Wire Wire Line
 	8800 4950 8800 3950
 Connection ~ 8800 3950
+$Comp
+L Mechanical:MountingHole_Pad H6
+U 1 1 609389FB
+P 6400 6750
+F 0 "H6" H 6500 6796 50  0000 L CNN
+F 1 "MountingHole" H 6500 6705 50  0000 L CNN
+F 2 "AKLogo:MountingHole_2.2mm_M2-MODIFIED" H 6400 6750 50  0001 C CNN
+F 3 "~" H 6400 6750 50  0001 C CNN
+	1    6400 6750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Mechanical:MountingHole_Pad H4
+U 1 1 609389F5
+P 6400 6550
+F 0 "H4" H 6500 6596 50  0000 L CNN
+F 1 "MountingHole" H 6500 6505 50  0000 L CNN
+F 2 "AKLogo:MountingHole_2.2mm_M2-MODIFIED" H 6400 6550 50  0001 C CNN
+F 3 "~" H 6400 6550 50  0001 C CNN
+	1    6400 6550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Mechanical:MountingHole_Pad H2
+U 1 1 609389EF
+P 6400 6350
+F 0 "H2" H 6500 6396 50  0000 L CNN
+F 1 "MountingHole" H 6500 6305 50  0000 L CNN
+F 2 "AKLogo:MountingHole_2.2mm_M2-MODIFIED" H 6400 6350 50  0001 C CNN
+F 3 "~" H 6400 6350 50  0001 C CNN
+	1    6400 6350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Mechanical:MountingHole_Pad H11
+U 1 1 609431FD
+P 6400 7750
+F 0 "H11" H 6500 7796 50  0000 L CNN
+F 1 "MountingHole" H 6500 7705 50  0000 L CNN
+F 2 "AKLogo:MountingHole_2.2mm_M2-MODIFIED" H 6400 7750 50  0001 C CNN
+F 3 "~" H 6400 7750 50  0001 C CNN
+	1    6400 7750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Mechanical:MountingHole_Pad H10
+U 1 1 608EDB63
+P 6400 8150
+F 0 "H10" H 6500 8196 50  0000 L CNN
+F 1 "MountingHole" H 6500 8105 50  0000 L CNN
+F 2 "AKLogo:MountingHole_2.2mm_M2-MODIFIED" H 6400 8150 50  0001 C CNN
+F 3 "~" H 6400 8150 50  0001 C CNN
+	1    6400 8150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Mechanical:MountingHole_Pad H9
+U 1 1 608DD691
+P 6400 7950
+F 0 "H9" H 6500 7996 50  0000 L CNN
+F 1 "MountingHole" H 6500 7905 50  0000 L CNN
+F 2 "AKLogo:MountingHole_2.2mm_M2-MODIFIED" H 6400 7950 50  0001 C CNN
+F 3 "~" H 6400 7950 50  0001 C CNN
+	1    6400 7950
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Mechanical:MountingHole_Pad H7
+U 1 1 608CD285
+P 6400 7550
+F 0 "H7" H 6500 7596 50  0000 L CNN
+F 1 "MountingHole" H 6500 7505 50  0000 L CNN
+F 2 "AKLogo:MountingHole_2.2mm_M2-MODIFIED" H 6400 7550 50  0001 C CNN
+F 3 "~" H 6400 7550 50  0001 C CNN
+	1    6400 7550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Mechanical:MountingHole_Pad H5
+U 1 1 608BCF9C
+P 6400 7350
+F 0 "H5" H 6500 7396 50  0000 L CNN
+F 1 "MountingHole" H 6500 7305 50  0000 L CNN
+F 2 "AKLogo:MountingHole_2.2mm_M2-MODIFIED" H 6400 7350 50  0001 C CNN
+F 3 "~" H 6400 7350 50  0001 C CNN
+	1    6400 7350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Mechanical:MountingHole_Pad H3
+U 1 1 608ACB73
+P 6400 7150
+F 0 "H3" H 6500 7196 50  0000 L CNN
+F 1 "MountingHole" H 6500 7105 50  0000 L CNN
+F 2 "AKLogo:MountingHole_2.2mm_M2-MODIFIED" H 6400 7150 50  0001 C CNN
+F 3 "~" H 6400 7150 50  0001 C CNN
+	1    6400 7150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Mechanical:MountingHole_Pad H1
+U 1 1 608AB119
+P 6400 6950
+F 0 "H1" H 6500 6996 50  0000 L CNN
+F 1 "MountingHole" H 6500 6905 50  0000 L CNN
+F 2 "AKLogo:MountingHole_2.2mm_M2-MODIFIED" H 6400 6950 50  0001 C CNN
+F 3 "~" H 6400 6950 50  0001 C CNN
+	1    6400 6950
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	6500 8150 6500 7950
+Wire Wire Line
+	6500 6350 6650 6350
+Connection ~ 6500 6350
+Connection ~ 6500 6550
+Wire Wire Line
+	6500 6550 6500 6350
+Connection ~ 6500 6750
+Wire Wire Line
+	6500 6750 6500 6550
+Connection ~ 6500 6950
+Wire Wire Line
+	6500 6950 6500 6750
+Connection ~ 6500 7150
+Wire Wire Line
+	6500 7150 6500 6950
+Connection ~ 6500 7350
+Wire Wire Line
+	6500 7350 6500 7150
+Connection ~ 6500 7550
+Wire Wire Line
+	6500 7550 6500 7350
+Connection ~ 6500 7750
+Wire Wire Line
+	6500 7750 6500 7550
+Connection ~ 6500 7950
+Wire Wire Line
+	6500 7950 6500 7750
+$Comp
+L power:GND #PWR?
+U 1 1 616E462A
+P 6650 6350
+F 0 "#PWR?" H 6650 6100 50  0001 C CNN
+F 1 "GND" V 6655 6222 50  0000 R CNN
+F 2 "" H 6650 6350 50  0001 C CNN
+F 3 "" H 6650 6350 50  0001 C CNN
+	1    6650 6350
+	0    -1   -1   0   
+$EndComp
 $EndSCHEMATC

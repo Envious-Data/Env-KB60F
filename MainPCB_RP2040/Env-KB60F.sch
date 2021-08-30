@@ -2093,37 +2093,37 @@ F 3 "~" H 22100 9800 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Mechanical:MountingHole H2
+L Mechanical:MountingHole_Pad H2
 U 1 1 609389EF
-P 22900 8600
-F 0 "H2" H 23000 8646 50  0000 L CNN
-F 1 "MountingHole" H 23000 8555 50  0000 L CNN
-F 2 "AKLogo:MountingHole_2.2mm_M2-MODIFIED" H 22900 8600 50  0001 C CNN
-F 3 "~" H 22900 8600 50  0001 C CNN
-	1    22900 8600
-	1    0    0    -1  
+P 22100 8100
+F 0 "H2" H 22200 8146 50  0000 L CNN
+F 1 "MountingHole" H 22200 8055 50  0000 L CNN
+F 2 "AKLogo:MountingHole_2.2mm_M2-MODIFIED" H 22100 8100 50  0001 C CNN
+F 3 "~" H 22100 8100 50  0001 C CNN
+	1    22100 8100
+	0    1    1    0   
 $EndComp
 $Comp
-L Mechanical:MountingHole H4
+L Mechanical:MountingHole_Pad H4
 U 1 1 609389F5
-P 22900 8800
-F 0 "H4" H 23000 8846 50  0000 L CNN
-F 1 "MountingHole" H 23000 8755 50  0000 L CNN
-F 2 "AKLogo:MountingHole_2.2mm_M2-MODIFIED" H 22900 8800 50  0001 C CNN
-F 3 "~" H 22900 8800 50  0001 C CNN
-	1    22900 8800
-	1    0    0    -1  
+P 22100 8300
+F 0 "H4" H 22200 8346 50  0000 L CNN
+F 1 "MountingHole" H 22200 8255 50  0000 L CNN
+F 2 "AKLogo:MountingHole_2.2mm_M2-MODIFIED" H 22100 8300 50  0001 C CNN
+F 3 "~" H 22100 8300 50  0001 C CNN
+	1    22100 8300
+	0    1    1    0   
 $EndComp
 $Comp
-L Mechanical:MountingHole H6
+L Mechanical:MountingHole_Pad H6
 U 1 1 609389FB
-P 22900 9000
-F 0 "H6" H 23000 9046 50  0000 L CNN
-F 1 "MountingHole" H 23000 8955 50  0000 L CNN
-F 2 "AKLogo:MountingHole_2.2mm_M2-MODIFIED" H 22900 9000 50  0001 C CNN
-F 3 "~" H 22900 9000 50  0001 C CNN
-	1    22900 9000
-	1    0    0    -1  
+P 22100 8500
+F 0 "H6" H 22200 8546 50  0000 L CNN
+F 1 "MountingHole" H 22200 8455 50  0000 L CNN
+F 2 "AKLogo:MountingHole_2.2mm_M2-MODIFIED" H 22100 8500 50  0001 C CNN
+F 3 "~" H 22100 8500 50  0001 C CNN
+	1    22100 8500
+	0    1    1    0   
 $EndComp
 $Comp
 L MX_Alps_Hybrid:MX-NoLED K_29
@@ -3844,4 +3844,13 @@ Text GLabel 9650 7200 2    50   Input ~ 0
 GP27
 Text GLabel 9650 7300 2    50   Input ~ 0
 GP28
+Wire Wire Line
+	22000 8600 22000 8500
+Connection ~ 22000 8600
+Wire Wire Line
+	22000 8500 22000 8300
+Connection ~ 22000 8500
+Wire Wire Line
+	22000 8300 22000 8100
+Connection ~ 22000 8300
 $EndSCHEMATC
