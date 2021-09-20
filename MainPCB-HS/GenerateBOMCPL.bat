@@ -1,2 +1,2 @@
-jlc-kicad-tools -n Env-KB60F . -o .\_out\ --include-all-component-groups
+jlc-kicad-tools -n Env-KB60FHS . -o .\_out\ --include-all-component-groups
 pause
