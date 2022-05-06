@@ -2201,8 +2201,8 @@
     (uuid ffb2e542-2ee7-4a0c-871a-fc5c73367a6c)
   )
 
-  (no_connect (at 39.37 186.69) (uuid 3aa8a564-aa0a-4979-a426-a4a9e9fe5ac2))
   (no_connect (at 39.37 189.23) (uuid 3aa8a564-aa0a-4979-a426-a4a9e9fe5ac2))
+  (no_connect (at 39.37 186.69) (uuid 3aa8a564-aa0a-4979-a426-a4a9e9fe5ac2))
 
   (wire (pts (xy 110.49 29.21) (xy 110.49 30.48))
     (stroke (width 0) (type default) (color 0 0 0 0))
@@ -6524,7 +6524,7 @@
     (property "Value" "" (id 1) (at 24.765 150.495 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "josh-connectors:USB_C_U262-161N-4BVC11" (id 2) (at 24.13 173.99 0)
+    (property "Footprint" "" (id 2) (at 24.13 173.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 27.94 173.99 0)
@@ -6893,10 +6893,10 @@
       (reference "#PWR0101") (unit 1) (value "GND") (footprint "")
     )
     (path "/00000000-0000-0000-0000-000060aaf05f"
-      (reference "5.1K1") (unit 1) (value "5.1K 0402 Resistor") (footprint "Resistor_SMD:R_0402_1005Metric")
+      (reference "5.1K1") (unit 1) (value "5.1K 0402 Resistor") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/00000000-0000-0000-0000-000060aac80f"
-      (reference "5.1K2") (unit 1) (value "5.1K 0402 Resistor") (footprint "Resistor_SMD:R_0402_1005Metric")
+      (reference "5.1K2") (unit 1) (value "5.1K 0402 Resistor") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/8512be71-fd68-4fcf-a580-ea27e3f43582"
       (reference "D_1") (unit 1) (value "D") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
@@ -7337,7 +7337,7 @@
       (reference "U1") (unit 1) (value "Pico") (footprint "MCU_RaspberryPi_and_Boards:RPi_Pico_SMD_TH")
     )
     (path "/00000000-0000-0000-0000-000060a58fc0"
-      (reference "USB1") (unit 1) (value "HRO-TYPE-C-31-M-14") (footprint "josh-connectors:USB_C_U262-161N-4BVC11")
+      (reference "USB1") (unit 1) (value "HRO-TYPE-C-31-M-14") (footprint "josh-connectors:USB_C_TYPE-C-31-M-14")
     )
     (path "/6415485b-4a78-456e-b112-f1ce25139b4e"
       (reference "stab1") (unit 1) (value "MX Stabilizer") (footprint "Mounting_Keyboard_Stabilizer:Stabilizer_Cherry_MX_2u")

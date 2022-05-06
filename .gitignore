@@ -23,3 +23,5 @@ _autosave-*
 # Exported BOM files
 *.xml
 #*.csv
+MainPCB/Env-KB60F-backups/*
+MainPCB/Env-KB60F-backups
