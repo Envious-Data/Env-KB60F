@@ -1,9 +1,0 @@
-(sym_lib_table
-  (lib (name diode)(type Legacy)(uri ${KIPRJMOD}/Libraries/diode.lib)(options "")(descr ""))
-  (lib (name eec)(type Legacy)(uri ${KIPRJMOD}/Libraries/eec.lib)(options "")(descr ""))
-  (lib (name logo)(type Legacy)(uri ${KIPRJMOD}/Libraries/logo.lib)(options "")(descr ""))
-  (lib (name MCU_RaspberryPi_and_Boards)(type Legacy)(uri ${KIPRJMOD}/Libraries/MCU_RaspberryPi_and_Boards.lib)(options "")(descr ""))
-  (lib (name MX_Alps_Hybrid)(type Legacy)(uri ${KIPRJMOD}/Libraries/MX_Alps_Hybrid.lib)(options "")(descr ""))
-  (lib (name Type-C)(type Legacy)(uri ${KIPRJMOD}/Libraries/Type-C.lib)(options "")(descr ""))
-  (lib (name Env-KB60F-rescue)(type Legacy)(uri ${KIPRJMOD}/Env-KB60F-rescue.lib)(options "")(descr ""))
-)
