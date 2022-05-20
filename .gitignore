@@ -23,8 +23,7 @@ _autosave-*
 # Exported BOM files
 *.xml
 #*.csv
-MainPCB/Env-KB60F-backups/*
-MainPCB/Env-KB60F-backups
-BackPCB/EnvKB60F-BackPlate-backups
-SwitchPlate/*
 MainPCB_ChocV2/Env-KB60F-backups
+MainPCB_MX/Env-KB60F-backups
+BackPCB/EnvKB60F-BackPlate-backups
+SwitchPlate/EnvKB60F-SwitchPlate-backups
