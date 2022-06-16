@@ -1,36 +1,29 @@
-8258488418307
-Env_Extras
-MXOnly-1U-Hotswap-Modified
-
-
+6534172864040
+MCU_RaspberryPi_and_Boards
+Crystal_SMD_HC49-US
+SMD Crystal HC-49-SD http://cdn-reichelt.de/documents/datenblatt/B400/xxx-HC49-SMD.pdf, 11.4x4.7mm^2 package
+SMD SMT crystal
 0
-6
 2
-Env_Extras
-MXOnly-1U-Mask
-
-
+2
+MCU_RaspberryPi_and_Boards
+RP2040-QFN-56
+QFN, 56 Pin (http://www.cypress.com/file/416486/download#page=40), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
 0
+70
+57
+MCU_RaspberryPi_and_Boards
+RPi_Pico_SMD_TH
+Through hole straight pin header, 2x20, 2.54mm pitch, double rows
+Through hole pin header THT 2x20 2.54mm double row
 0
+86
+43
+MCU_RaspberryPi_and_Boards
+RPi_Pico_SMD_TH_MODIFIED
+Through hole straight pin header, 2x20, 2.54mm pitch, double rows
+Through hole pin header THT 2x20 2.54mm double row
 0
-Env_Extras
-MXOnly-1U-cutout
-
-
-0
-0
-0
-Env_Extras
-MountingHole_2.2mm_M2-MODIFIED
-Mounting Hole 2.2mm, no annular, M2
-mounting hole 2.2mm no annular m2
-0
-0
-0
-Env_Extras
-MountingHole_2.2mm_M2_DIN965_Pad-MODIFIED
-Mounting Hole 2.2mm, M2, DIN965
-mounting hole 2.2mm m2 din965
-0
-1
-1
+92
+45

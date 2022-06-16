@@ -6384,7 +6384,7 @@
     (uuid 00000000-0000-0000-0000-00006095eae7)
     (property "Reference" "U1" (id 0) (at 102.87 177.8 0))
     (property "Value" "Pico" (id 1) (at 99.06 177.8 0))
-    (property "Footprint" "MCU_RaspberryPi_and_Boards:RPi_Pico_SMD_TH" (id 2) (at 88.9 207.01 90)
+    (property "Footprint" "MCU_RaspberryPi_and_Boards:RPi_Pico_SMD_TH_MODIFIED" (id 2) (at 88.9 207.01 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 88.9 207.01 0)
@@ -7334,7 +7334,7 @@
       (reference "SW1") (unit 1) (value "EVQ-P7A01P") (footprint "PanasonicEVQ-P7A01P:Panasonic-EVQ-P7A01P-0-0-MFG")
     )
     (path "/00000000-0000-0000-0000-00006095eae7"
-      (reference "U1") (unit 1) (value "Pico") (footprint "MCU_RaspberryPi_and_Boards:RPi_Pico_SMD_TH")
+      (reference "U1") (unit 1) (value "Pico") (footprint "MCU_RaspberryPi_and_Boards:RPi_Pico_SMD_TH_MODIFIED")
     )
     (path "/00000000-0000-0000-0000-000060a58fc0"
       (reference "USB1") (unit 1) (value "HRO-TYPE-C-31-M-14") (footprint "josh-connectors:USB_C_TYPE-C-31-M-14")
