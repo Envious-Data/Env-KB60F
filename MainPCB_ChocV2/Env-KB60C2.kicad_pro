@@ -55,7 +55,15 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "clearance|103293750|127287500|60e6c82f-7824-4097-b678-263c255de74f|f039082f-6b9b-40bd-a81d-815aca227e39",
+        "copper_edge_clearance|358088224|51171500|cb9fb99b-def5-493b-98aa-20c9cfdf6f71|9700218a-13fe-4092-a8d5-0adf81d3c5af",
+        "copper_edge_clearance|358088224|53203500|cb9fb99b-def5-493b-98aa-20c9cfdf6f71|f37f2871-14e6-4114-8ea5-a402afb63244",
+        "copper_edge_clearance|360000000|115013000|beed807b-094b-4007-a6bf-646ea2fee72e|e470444a-0d39-4cb6-a5a1-718b2c3125b7",
+        "copper_edge_clearance|360000000|91137000|beed807b-094b-4007-a6bf-646ea2fee72e|46921c1f-bdeb-4788-94e2-0c9bd6035141",
+        "hole_clearance|352238000|105615000|2bfd599c-e2cb-4d9f-894b-5cb991660546|2580c68a-c2d0-4057-b65d-257475e039f0",
+        "silk_overlap|294166190|45380000|6636447f-29ca-4621-9940-c6dee80ec469|5a838ae8-9014-4b52-baf8-1b57b9749f91"
+      ],
       "meta": {
         "filename": "board_design_settings.json",
         "version": 2
@@ -364,7 +372,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Env-KB60F.kicad_pro",
+    "filename": "Env-KB60C2.kicad_pro",
     "version": 1
   },
   "net_settings": {
