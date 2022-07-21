@@ -419,7 +419,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Env-KB60F.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
