@@ -65,7 +65,7 @@
       36
     ],
     "visible_layers": "ffcfcff_ffffffff",
-    "zone_display_mode": 0
+    "zone_display_mode": 1
   },
   "meta": {
     "filename": "Env-KB60F.kicad_prl",
