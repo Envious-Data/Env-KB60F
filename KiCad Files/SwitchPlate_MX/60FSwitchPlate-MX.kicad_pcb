@@ -73,7 +73,7 @@
       (subtractmaskfromsilk true)
       (outputformat 3)
       (mirror false)
-      (drillshape 2)
+      (drillshape 0)
       (scaleselection 1)
       (outputdirectory "_gbr/")
     )
@@ -753,6 +753,18 @@
   (gr_line (start 207.7096 35.25) (end 161.9515 35.25) (layer "Dwgs.User") (width 0.1) (tstamp d16f4efb-8280-42d4-b6f7-9241e542014e))
   (gr_line (start 202.05 42.75) (end 202.05 32.7932) (layer "Dwgs.User") (width 0.1) (tstamp d1f5dbe4-d66e-4e26-be2b-62f3bc80c54d))
   (gr_line (start 188.05 37.75) (end 207.7223 37.75) (layer "Dwgs.User") (width 0.1) (tstamp ef58db98-6c88-473d-9622-1b8b6864b4df))
+  (gr_line (start 306.9 62.75) (end 78.1 62.75) (layer "Eco1.User") (width 0.1) (tstamp 0a6019ba-c938-42ff-8412-342b98d24eb6))
+  (gr_arc (start 360 38.75) (mid 359.414214 40.164214) (end 358 40.75) (layer "Eco1.User") (width 0.1) (tstamp 0c8f72c9-892b-4201-a72f-b842ab158fda))
+  (gr_line (start 360 38.75) (end 360 38) (layer "Eco1.User") (width 0.1) (tstamp 137e3810-fc76-4c95-bfae-6b5bc93bc576))
+  (gr_line (start 309.1 40.75) (end 358 40.75) (layer "Eco1.User") (width 0.1) (tstamp 5a7ac00f-e4c6-4df3-a35d-452318aeacf2))
+  (gr_arc (start 308 41.85) (mid 308.322183 41.072183) (end 309.1 40.75) (layer "Eco1.User") (width 0.1) (tstamp 6ba139a8-57a3-447f-96c0-d3e000edc3ee))
+  (gr_arc (start 355 33) (mid 358.535534 34.464466) (end 360 38) (layer "Eco1.User") (width 0.1) (tstamp 80cd3982-36a0-4a81-931f-de07d32f8776))
+  (gr_arc (start 308 61.65) (mid 307.677817 62.427817) (end 306.9 62.75) (layer "Eco1.User") (width 0.1) (tstamp 85834755-331f-47fc-a069-d9e1ec01935b))
+  (gr_line (start 355 33) (end 82 33) (layer "Eco1.User") (width 0.1) (tstamp abc80112-011b-481c-be14-61230f1dc1c3))
+  (gr_line (start 77 38) (end 77 61.65) (layer "Eco1.User") (width 0.1) (tstamp b26dd947-db9a-4575-98b3-568388c37841))
+  (gr_arc (start 77 38) (mid 78.464466 34.464466) (end 82 33) (layer "Eco1.User") (width 0.1) (tstamp c9ed48df-b1a3-4d16-b6df-fa862039ae53))
+  (gr_arc (start 78.1 62.75) (mid 77.322183 62.427817) (end 77 61.65) (layer "Eco1.User") (width 0.1) (tstamp cc212c05-a2e8-45b6-96df-5c2f11147eb3))
+  (gr_line (start 308 61.65) (end 308 41.85) (layer "Eco1.User") (width 0.1) (tstamp e432a968-f0a1-45ab-9a34-f8db0883630e))
   (gr_line (start 77 38) (end 77 154.5) (layer "Eco2.User") (width 0.1) (tstamp 206e2c51-04fa-410f-b602-adf2fa7fcd47))
   (gr_arc (start 360 38.75) (mid 359.414214 40.164214) (end 358 40.75) (layer "Eco2.User") (width 0.1) (tstamp 24166603-4ad9-44e3-8e8d-e64685602142))
   (gr_arc (start 360 154.5) (mid 358.535534 158.035534) (end 355 159.5) (layer "Eco2.User") (width 0.1) (tstamp 256e070c-d693-48e8-8e61-b3b4e8b39b33))
@@ -32523,6 +32535,39 @@
         (xy 199.0804 153.53345)
         (xy 199.3354 153.53345)
       )
+    )
+  )
+  (group "" (id 1be76e81-a2a6-4e15-acaa-fee7a2143a70)
+    (members
+      04a56c1d-a5c6-4855-ad7f-77ce0730427e
+      1cc41e09-4ef2-45a0-9123-2b734f1256d6
+      7250e898-56d0-4005-a628-0c0cf2e6f349
+      76dd23ce-2958-4dd0-8417-953b183b3bc4
+      952c29b3-1112-4b9d-ad1a-9e2e44f2a4d5
+      abc4c303-dff6-44a3-a14d-8f4a9d87f8fc
+      dd09d44e-143b-4aef-bd9e-00c566d76c4d
+      f11f50cb-6680-4eaf-983f-eae25fa9e001
+    )
+  )
+  (group "" (id b978f49e-9798-4af6-b76d-7bbd6697b093)
+    (members
+      1be76e81-a2a6-4e15-acaa-fee7a2143a70
+      206e2c51-04fa-410f-b602-adf2fa7fcd47
+      24166603-4ad9-44e3-8e8d-e64685602142
+      256e070c-d693-48e8-8e61-b3b4e8b39b33
+      290311ab-2acc-454a-9a59-6cba16c0a08d
+      2cad3fe2-0f3b-467e-9c49-f271aa1ec49b
+      45dd4696-9836-42ec-874a-0ed3968dc1c5
+      4f71d789-c8cd-440d-8bef-4c66aba64664
+      756e761f-2471-48e0-a148-0cf937b4ccb7
+      7c995db7-280d-41d5-9b0b-bc521ea2eeed
+      8e0ac544-58c3-4ced-b413-6ee4a521cfbb
+      9a405a24-59d4-4127-bd8e-f1cef99914d6
+      9ba0974e-30d6-4561-9e03-e0fedfe82462
+      c1ebc1a1-0344-4c5d-9bfb-1c03eab28e57
+      c9206ba1-7035-4d20-b5e8-c5cb119965f4
+      dbffb846-8434-4dc3-95be-bece5964d8aa
+      de6a8a79-ffb1-408e-99f7-331b8dd7ba96
     )
   )
 )

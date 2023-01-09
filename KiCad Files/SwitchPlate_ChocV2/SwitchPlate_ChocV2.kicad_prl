@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 44,
+    "active_layer": 0,
     "active_layer_preset": "",
     "auto_track_width": false,
     "hidden_nets": [],
@@ -64,11 +64,11 @@
       35,
       36
     ],
-    "visible_layers": "007f7ff_80000001",
+    "visible_layers": "007ffff_80000001",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "Env-KB60C2.kicad_prl",
+    "filename": "SwitchPlate_ChocV2.kicad_prl",
     "version": 3
   },
   "project": {

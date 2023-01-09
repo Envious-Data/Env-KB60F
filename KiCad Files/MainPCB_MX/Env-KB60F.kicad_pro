@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.8,
-          "height": 1.0,
-          "width": 1.0
+          "drill": 3.73,
+          "height": 6.2,
+          "width": 6.2
         },
         "silk_line_width": 0.09999999999999999,
         "silk_text_italic": false,
@@ -64,9 +64,11 @@
         "copper_edge_clearance|358125000|52766000|1d18f8f6-777e-41c9-88c1-77bd1a3019c6|589cd4f3-4c18-40bd-b1ec-b56a2601e7fd",
         "copper_edge_clearance|360000000|115013000|beed807b-094b-4007-a6bf-646ea2fee72e|e470444a-0d39-4cb6-a5a1-718b2c3125b7",
         "copper_edge_clearance|360000000|91137000|beed807b-094b-4007-a6bf-646ea2fee72e|46921c1f-bdeb-4788-94e2-0c9bd6035141",
-        "silk_over_copper|353656091|39152030|4fc1959b-440b-446c-9898-f89a325f6b03|3ed44c6c-7860-4e0a-9cad-af8c7f699bb8",
-        "silk_over_copper|355128595|37866784|5bf397fc-7552-40cb-b858-6710df9f60fb|3ed44c6c-7860-4e0a-9cad-af8c7f699bb8",
-        "silk_over_copper|77000000|49330865|88c300c8-0e7a-4e34-88e0-147438387595|9d541d6f-313d-4469-a000-68242c1dd6d6"
+        "hole_near_hole|102480000|131700000|a547f32b-da49-47ea-b9ae-0902c7d12faa|c2f8c49f-d49f-49e2-940a-a7b9765ffdf0",
+        "hole_near_hole|335220000|112600000|c610ffa4-59c6-4bf2-8434-5819d53174ea|0673bd15-bb27-42a3-b8dd-ff34de638161",
+        "hole_near_hole|340300000|112600000|2c717313-0b37-481e-88c0-c2bd1005d3a3|8f77faa8-2d4a-4750-9ffd-4f5c63ff8509",
+        "hole_near_hole|349843750|103075000|7dcddee7-cb64-4a9d-bde8-637d2ee9257b|2580c68a-c2d0-4057-b65d-257475e039f0",
+        "hole_near_hole|92320000|131700000|ae6bf646-b66b-4f78-ba4e-7b721157abf0|a951150c-9089-41ba-8bfe-69460782c403"
       ],
       "meta": {
         "filename": "board_design_settings.json",
@@ -98,7 +100,7 @@
         "padstack": "error",
         "pth_inside_courtyard": "ignore",
         "shorting_items": "error",
-        "silk_over_copper": "warning",
+        "silk_over_copper": "ignore",
         "silk_overlap": "warning",
         "skew_out_of_range": "error",
         "through_hole_pad_without_hole": "error",
