@@ -46,7 +46,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.508
+          "min_clearance": 0.5
         }
       },
       "diff_pair_dimensions": [
@@ -56,21 +56,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "copper_edge_clearance|358050000|51171500|1d18f8f6-777e-41c9-88c1-77bd1a3019c6|0c5997c5-bcc2-4fc4-9cd9-9bd00ab9e1b7",
-        "copper_edge_clearance|358050000|53203500|1d18f8f6-777e-41c9-88c1-77bd1a3019c6|8c3f8c77-c888-4b96-8d83-3cacfc877e06",
-        "copper_edge_clearance|358125000|50734000|1d18f8f6-777e-41c9-88c1-77bd1a3019c6|0cd570e0-fbd4-40b7-8188-47ceacd03c64",
-        "hole_clearance|354638000|67540000|6ecd4885-b7fa-454e-96f9-3581c9417f2b|34600403-f41d-47ed-8742-771add37111a",
-        "hole_near_hole|102480000|131700000|a547f32b-da49-47ea-b9ae-0902c7d12faa|c2f8c49f-d49f-49e2-940a-a7b9765ffdf0",
-        "hole_near_hole|331120000|131651000|c200a669-6894-4462-a510-45bd90772e17|1538e725-d385-4b5a-8db8-b54abefda181",
-        "hole_near_hole|335220000|112600000|c610ffa4-59c6-4bf2-8434-5819d53174ea|0673bd15-bb27-42a3-b8dd-ff34de638161",
-        "hole_near_hole|337620000|74525000|ddf4eee7-ecaf-4690-b61c-20517a21ac9c|c0ac1a6d-956b-41b2-a07d-8da2f7a62027",
-        "hole_near_hole|340300000|112600000|2c717313-0b37-481e-88c0-c2bd1005d3a3|8f77faa8-2d4a-4750-9ffd-4f5c63ff8509",
-        "hole_near_hole|347140000|74530000|4f8e0823-5cad-441b-a127-cad692f5aaec|18ad2d06-5888-43fe-8647-32dfde3d8195",
-        "hole_near_hole|349843750|103075000|7dcddee7-cb64-4a9d-bde8-637d2ee9257b|2580c68a-c2d0-4057-b65d-257475e039f0",
-        "hole_near_hole|354760000|69450000|6ecd4885-b7fa-454e-96f9-3581c9417f2b|34600403-f41d-47ed-8742-771add37111a",
-        "hole_near_hole|92320000|131700000|ae6bf646-b66b-4f78-ba4e-7b721157abf0|a951150c-9089-41ba-8bfe-69460782c403"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "filename": "board_design_settings.json",
         "version": 2
@@ -152,39 +138,39 @@
       "teardrop_options": [
         {
           "td_allow_use_two_tracks": true,
-          "td_curve_segcount": 5,
-          "td_on_pad_in_zone": false,
+          "td_curve_segcount": 10,
+          "td_on_pad_in_zone": true,
           "td_onpadsmd": true,
           "td_onroundshapesonly": false,
-          "td_ontrackend": false,
+          "td_ontrackend": true,
           "td_onviapad": true
         }
       ],
       "teardrop_parameters": [
         {
-          "td_curve_segcount": 0,
+          "td_curve_segcount": 10,
           "td_height_ratio": 1.0,
-          "td_length_ratio": 0.5,
-          "td_maxheight": 2.0,
-          "td_maxlen": 1.0,
+          "td_length_ratio": 0.9,
+          "td_maxheight": 10.0,
+          "td_maxlen": 10.0,
           "td_target_name": "td_round_shape",
           "td_width_to_size_filter_ratio": 0.9
         },
         {
-          "td_curve_segcount": 0,
+          "td_curve_segcount": 10,
           "td_height_ratio": 1.0,
-          "td_length_ratio": 0.5,
-          "td_maxheight": 2.0,
-          "td_maxlen": 1.0,
+          "td_length_ratio": 0.9,
+          "td_maxheight": 10.0,
+          "td_maxlen": 10.0,
           "td_target_name": "td_rect_shape",
           "td_width_to_size_filter_ratio": 0.9
         },
         {
           "td_curve_segcount": 0,
           "td_height_ratio": 1.0,
-          "td_length_ratio": 0.5,
-          "td_maxheight": 2.0,
-          "td_maxlen": 1.0,
+          "td_length_ratio": 0.9,
+          "td_maxheight": 10.0,
+          "td_maxlen": 10.0,
           "td_target_name": "td_track_end",
           "td_width_to_size_filter_ratio": 0.9
         }
