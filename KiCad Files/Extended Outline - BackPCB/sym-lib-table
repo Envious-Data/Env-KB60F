@@ -1,9 +1,0 @@
-(sym_lib_table
-  (lib (name "diode")(type "Legacy")(uri "${LIBRARIES}/Symbols/diode.lib")(options "")(descr ""))
-  (lib (name "eec")(type "Legacy")(uri "${LIBRARIES}/Symbols/eec.lib")(options "")(descr ""))
-  (lib (name "josh-connector")(type "Legacy")(uri "${LIBRARIES}/Symbols/josh-connector.lib")(options "")(descr ""))
-  (lib (name "logo")(type "Legacy")(uri "${LIBRARIES}/Symbols/logo.lib")(options "")(descr ""))
-  (lib (name "MCU_RaspberryPi_and_Boards")(type "Legacy")(uri "${LIBRARIES}/Symbols/MCU_RaspberryPi_and_Boards.lib")(options "")(descr ""))
-  (lib (name "MX_Alps_Hybrid")(type "Legacy")(uri "${LIBRARIES}/Symbols/MX_Alps_Hybrid.lib")(options "")(descr ""))
-  (lib (name "Type-C")(type "Legacy")(uri "${LIBRARIES}/Symbols/Type-C.lib")(options "")(descr ""))
-)
