@@ -8468,7 +8468,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Modified"
+		(property "Footprint" "Env_Extras:MXOnly-1U-Hotswap-Modified"
 			(at 35.56 25.4 0)
 			(effects
 				(font
@@ -8604,7 +8604,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Modified"
+		(property "Footprint" "Env_Extras:MXOnly-1U-Hotswap-Modified"
 			(at 60.96 25.4 0)
 			(effects
 				(font
@@ -8740,7 +8740,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Modified"
+		(property "Footprint" "Env_Extras:MXOnly-1U-Hotswap-Modified"
 			(at 86.36 25.4 0)
 			(effects
 				(font
@@ -8876,7 +8876,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Modified"
+		(property "Footprint" "Env_Extras:MXOnly-1U-Hotswap-Modified"
 			(at 111.76 25.4 0)
 			(effects
 				(font
@@ -9012,7 +9012,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Modified"
+		(property "Footprint" "Env_Extras:MXOnly-1U-Hotswap-Modified"
 			(at 137.16 25.4 0)
 			(effects
 				(font
@@ -9148,7 +9148,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Modified"
+		(property "Footprint" "Env_Extras:MXOnly-1U-Hotswap-Modified"
 			(at 162.56 25.4 0)
 			(effects
 				(font
@@ -9284,7 +9284,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Modified"
+		(property "Footprint" "Env_Extras:MXOnly-1U-Hotswap-Modified"
 			(at 187.96 25.4 0)
 			(effects
 				(font
@@ -9420,7 +9420,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Modified"
+		(property "Footprint" "Env_Extras:MXOnly-1U-Hotswap-Modified"
 			(at 213.36 25.4 0)
 			(effects
 				(font
@@ -9556,7 +9556,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Modified"
+		(property "Footprint" "Env_Extras:MXOnly-1U-Hotswap-Modified"
 			(at 238.76 25.4 0)
 			(effects
 				(font
@@ -9692,7 +9692,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Modified"
+		(property "Footprint" "Env_Extras:MXOnly-1U-Hotswap-Modified"
 			(at 264.16 25.4 0)
 			(effects
 				(font
@@ -9828,7 +9828,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Modified"
+		(property "Footprint" "Env_Extras:MXOnly-1U-Hotswap-Modified"
 			(at 289.56 25.4 0)
 			(effects
 				(font
@@ -9964,7 +9964,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Modified"
+		(property "Footprint" "Env_Extras:MXOnly-1U-Hotswap-Modified"
 			(at 314.96 25.4 0)
 			(effects
 				(font
@@ -10100,7 +10100,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Modified"
+		(property "Footprint" "Env_Extras:MXOnly-1U-Hotswap-Modified"
 			(at 340.36 25.4 0)
 			(effects
 				(font
@@ -10236,7 +10236,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Modified"
+		(property "Footprint" "Env_Extras:MXOnly-1U-Hotswap-Modified"
 			(at 391.16 25.4 0)
 			(effects
 				(font
@@ -10372,7 +10372,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Modified"
+		(property "Footprint" "Env_Extras:MXOnly-1U-Hotswap-Modified"
 			(at 35.56 50.8 0)
 			(effects
 				(font
@@ -10508,7 +10508,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Modified"
+		(property "Footprint" "Env_Extras:MXOnly-1U-Hotswap-Modified"
 			(at 86.36 50.8 0)
 			(effects
 				(font
@@ -10644,7 +10644,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Modified"
+		(property "Footprint" "Env_Extras:MXOnly-1U-Hotswap-Modified"
 			(at 111.76 50.8 0)
 			(effects
 				(font
@@ -10780,7 +10780,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Modified"
+		(property "Footprint" "Env_Extras:MXOnly-1U-Hotswap-Modified"
 			(at 137.16 50.8 0)
 			(effects
 				(font
@@ -10916,7 +10916,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Modified"
+		(property "Footprint" "Env_Extras:MXOnly-1U-Hotswap-Modified"
 			(at 162.56 50.8 0)
 			(effects
 				(font
@@ -11052,7 +11052,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Modified"
+		(property "Footprint" "Env_Extras:MXOnly-1U-Hotswap-Modified"
 			(at 187.96 50.8 0)
 			(effects
 				(font
@@ -11188,7 +11188,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Modified"
+		(property "Footprint" "Env_Extras:MXOnly-1U-Hotswap-Modified"
 			(at 213.36 50.8 0)
 			(effects
 				(font
@@ -11324,7 +11324,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Modified"
+		(property "Footprint" "Env_Extras:MXOnly-1U-Hotswap-Modified"
 			(at 238.76 50.8 0)
 			(effects
 				(font
@@ -11460,7 +11460,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Modified"
+		(property "Footprint" "Env_Extras:MXOnly-1U-Hotswap-Modified"
 			(at 264.16 50.8 0)
 			(effects
 				(font
@@ -11596,7 +11596,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Modified"
+		(property "Footprint" "Env_Extras:MXOnly-1U-Hotswap-Modified"
 			(at 289.56 50.8 0)
 			(effects
 				(font
@@ -11732,7 +11732,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Modified"
+		(property "Footprint" "Env_Extras:MXOnly-1U-Hotswap-Modified"
 			(at 314.96 50.8 0)
 			(effects
 				(font
@@ -11868,7 +11868,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Modified"
+		(property "Footprint" "Env_Extras:MXOnly-1U-Hotswap-Modified"
 			(at 340.36 50.8 0)
 			(effects
 				(font
@@ -12004,7 +12004,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Modified"
+		(property "Footprint" "Env_Extras:MXOnly-1U-Hotswap-Modified"
 			(at 365.76 50.8 0)
 			(effects
 				(font
@@ -12140,7 +12140,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Modified"
+		(property "Footprint" "Env_Extras:MXOnly-1U-Hotswap-Modified"
 			(at 391.16 76.2 0)
 			(effects
 				(font
@@ -12276,7 +12276,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Modified"
+		(property "Footprint" "Env_Extras:MXOnly-1U-Hotswap-Modified"
 			(at 35.56 76.2 0)
 			(effects
 				(font
@@ -12412,7 +12412,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Modified"
+		(property "Footprint" "Env_Extras:MXOnly-1U-Hotswap-Modified"
 			(at 86.36 76.2 0)
 			(effects
 				(font
@@ -12548,7 +12548,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Modified"
+		(property "Footprint" "Env_Extras:MXOnly-1U-Hotswap-Modified"
 			(at 111.76 76.2 0)
 			(effects
 				(font
@@ -12684,7 +12684,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Modified"
+		(property "Footprint" "Env_Extras:MXOnly-1U-Hotswap-Modified"
 			(at 137.16 76.2 0)
 			(effects
 				(font
@@ -12820,7 +12820,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Modified"
+		(property "Footprint" "Env_Extras:MXOnly-1U-Hotswap-Modified"
 			(at 162.56 76.2 0)
 			(effects
 				(font
@@ -12956,7 +12956,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Modified"
+		(property "Footprint" "Env_Extras:MXOnly-1U-Hotswap-Modified"
 			(at 187.96 76.2 0)
 			(effects
 				(font
@@ -13092,7 +13092,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Modified"
+		(property "Footprint" "Env_Extras:MXOnly-1U-Hotswap-Modified"
 			(at 213.36 76.2 0)
 			(effects
 				(font
@@ -13228,7 +13228,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Modified"
+		(property "Footprint" "Env_Extras:MXOnly-1U-Hotswap-Modified"
 			(at 238.76 76.2 0)
 			(effects
 				(font
@@ -13364,7 +13364,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Modified"
+		(property "Footprint" "Env_Extras:MXOnly-1U-Hotswap-Modified"
 			(at 264.16 76.2 0)
 			(effects
 				(font
@@ -13500,7 +13500,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Modified"
+		(property "Footprint" "Env_Extras:MXOnly-1U-Hotswap-Modified"
 			(at 289.56 76.2 0)
 			(effects
 				(font
@@ -13636,7 +13636,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Modified"
+		(property "Footprint" "Env_Extras:MXOnly-1U-Hotswap-Modified"
 			(at 314.96 76.2 0)
 			(effects
 				(font
@@ -13772,7 +13772,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Modified"
+		(property "Footprint" "Env_Extras:MXOnly-1U-Hotswap-Modified"
 			(at 340.36 76.2 0)
 			(effects
 				(font
@@ -13908,7 +13908,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Modified"
+		(property "Footprint" "Env_Extras:MXOnly-1U-Hotswap-Modified"
 			(at 365.76 76.2 0)
 			(effects
 				(font
@@ -14044,7 +14044,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Modified"
+		(property "Footprint" "Env_Extras:MXOnly-1U-Hotswap-Modified"
 			(at 35.56 101.6 0)
 			(effects
 				(font
@@ -14180,7 +14180,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Modified"
+		(property "Footprint" "Env_Extras:MXOnly-1U-Hotswap-Modified"
 			(at 60.96 101.6 0)
 			(effects
 				(font
@@ -14316,7 +14316,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Modified"
+		(property "Footprint" "Env_Extras:MXOnly-1U-Hotswap-Modified"
 			(at 86.36 101.6 0)
 			(effects
 				(font
@@ -14452,7 +14452,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Modified"
+		(property "Footprint" "Env_Extras:MXOnly-1U-Hotswap-Modified"
 			(at 111.76 101.6 0)
 			(effects
 				(font
@@ -14588,7 +14588,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Modified"
+		(property "Footprint" "Env_Extras:MXOnly-1U-Hotswap-Modified"
 			(at 137.16 101.6 0)
 			(effects
 				(font
@@ -14724,7 +14724,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Modified"
+		(property "Footprint" "Env_Extras:MXOnly-1U-Hotswap-Modified"
 			(at 162.56 101.6 0)
 			(effects
 				(font
@@ -14860,7 +14860,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Modified"
+		(property "Footprint" "Env_Extras:MXOnly-1U-Hotswap-Modified"
 			(at 187.96 101.6 0)
 			(effects
 				(font
@@ -14996,7 +14996,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Modified"
+		(property "Footprint" "Env_Extras:MXOnly-1U-Hotswap-Modified"
 			(at 213.36 101.6 0)
 			(effects
 				(font
@@ -15132,7 +15132,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Modified"
+		(property "Footprint" "Env_Extras:MXOnly-1U-Hotswap-Modified"
 			(at 238.76 101.6 0)
 			(effects
 				(font
@@ -15268,7 +15268,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Modified"
+		(property "Footprint" "Env_Extras:MXOnly-1U-Hotswap-Modified"
 			(at 264.16 101.6 0)
 			(effects
 				(font
@@ -15404,7 +15404,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Modified"
+		(property "Footprint" "Env_Extras:MXOnly-1U-Hotswap-Modified"
 			(at 289.56 101.6 0)
 			(effects
 				(font
@@ -15540,7 +15540,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Modified"
+		(property "Footprint" "Env_Extras:MXOnly-1U-Hotswap-Modified"
 			(at 314.96 101.6 0)
 			(effects
 				(font
@@ -15676,7 +15676,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Modified"
+		(property "Footprint" "Env_Extras:MXOnly-1U-Hotswap-Modified"
 			(at 365.76 101.6 0)
 			(effects
 				(font
@@ -15812,7 +15812,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Modified"
+		(property "Footprint" "Env_Extras:MXOnly-1U-Hotswap-Modified"
 			(at 35.56 127 0)
 			(effects
 				(font
@@ -15948,7 +15948,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Modified"
+		(property "Footprint" "Env_Extras:MXOnly-1U-Hotswap-Modified"
 			(at 60.96 127 0)
 			(effects
 				(font
@@ -16084,7 +16084,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Modified"
+		(property "Footprint" "Env_Extras:MXOnly-1U-Hotswap-Modified"
 			(at 111.76 127 0)
 			(effects
 				(font
@@ -16220,7 +16220,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Modified"
+		(property "Footprint" "Env_Extras:MXOnly-1U-Hotswap-Modified"
 			(at 187.96 127 0)
 			(effects
 				(font
@@ -16356,7 +16356,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Modified"
+		(property "Footprint" "Env_Extras:MXOnly-1U-Hotswap-Modified"
 			(at 289.56 127 0)
 			(effects
 				(font
@@ -16492,7 +16492,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Modified"
+		(property "Footprint" "Env_Extras:MXOnly-1U-Hotswap-Modified"
 			(at 314.96 127 0)
 			(effects
 				(font
@@ -16628,7 +16628,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Modified"
+		(property "Footprint" "Env_Extras:MXOnly-1U-Hotswap-Modified"
 			(at 365.76 127 0)
 			(effects
 				(font
@@ -16764,7 +16764,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Modified"
+		(property "Footprint" "Env_Extras:MXOnly-1U-Hotswap-Modified"
 			(at 391.16 127 0)
 			(effects
 				(font
@@ -16894,7 +16894,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.5mm_Pad"
+		(property "Footprint" "Env_Extras:MountingHole_2.2mm_M2-MODIFIED"
 			(at 162.56 176.53 0)
 			(effects
 				(font
@@ -16960,7 +16960,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.5mm_Pad"
+		(property "Footprint" "Env_Extras:MountingHole_2.2mm_M2-MODIFIED"
 			(at 162.56 181.61 0)
 			(effects
 				(font
@@ -17026,7 +17026,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.5mm_Pad"
+		(property "Footprint" "Env_Extras:MountingHole_2.2mm_M2-MODIFIED"
 			(at 162.56 186.69 0)
 			(effects
 				(font
@@ -17092,7 +17092,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.5mm_Pad"
+		(property "Footprint" "Env_Extras:MountingHole_2.2mm_M2-MODIFIED"
 			(at 162.56 191.77 0)
 			(effects
 				(font
@@ -17158,7 +17158,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.5mm_Pad"
+		(property "Footprint" "Env_Extras:MountingHole_2.2mm_M2-MODIFIED"
 			(at 162.56 201.93 0)
 			(effects
 				(font
@@ -17224,7 +17224,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.5mm_Pad"
+		(property "Footprint" "Env_Extras:MountingHole_2.2mm_M2-MODIFIED"
 			(at 162.56 207.01 0)
 			(effects
 				(font
@@ -17290,7 +17290,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.5mm_Pad"
+		(property "Footprint" "Env_Extras:MountingHole_2.2mm_M2-MODIFIED"
 			(at 162.56 161.29 0)
 			(effects
 				(font
@@ -17356,7 +17356,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.5mm_Pad"
+		(property "Footprint" "Env_Extras:MountingHole_2.2mm_M2-MODIFIED"
 			(at 162.56 166.37 0)
 			(effects
 				(font
@@ -17422,7 +17422,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.5mm_Pad"
+		(property "Footprint" "Env_Extras:MountingHole_2.2mm_M2-MODIFIED"
 			(at 162.56 171.45 0)
 			(effects
 				(font
@@ -17488,7 +17488,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.5mm_Pad"
+		(property "Footprint" "Env_Extras:MountingHole_2.2mm_M2-MODIFIED"
 			(at 162.56 196.85 0)
 			(effects
 				(font
@@ -17553,7 +17553,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Modified"
+		(property "Footprint" "Env_Extras:MXOnly-1U-Hotswap-Modified"
 			(at 389.89 74.93 0)
 			(effects
 				(font
@@ -17893,7 +17893,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Modified"
+		(property "Footprint" "Env_Extras:MXOnly-1U-Hotswap-Modified"
 			(at 34.29 100.33 0)
 			(effects
 				(font
@@ -18029,7 +18029,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Modified"
+		(property "Footprint" "Env_Extras:MXOnly-1U-Hotswap-Modified"
 			(at 391.16 50.8 0)
 			(effects
 				(font
@@ -18507,7 +18507,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Modified"
+		(property "Footprint" "Env_Extras:MXOnly-1U-Hotswap-Modified"
 			(at 162.56 127 0)
 			(effects
 				(font
@@ -18574,7 +18574,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Modified"
+		(property "Footprint" "Env_Extras:MXOnly-1U-Hotswap-Modified"
 			(at 213.36 127 0)
 			(effects
 				(font
