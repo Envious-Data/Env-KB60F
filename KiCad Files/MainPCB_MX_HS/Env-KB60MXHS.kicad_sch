@@ -8459,7 +8459,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "CPG151101S11"
 			(at 35.56 27.94 0)
 			(effects
 				(font
@@ -8527,7 +8527,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n4148W"
+		(property "Value" "LL4148"
 			(at 62.23 33.528 90)
 			(effects
 				(font
@@ -8595,7 +8595,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "CPG151101S11"
 			(at 60.96 27.94 0)
 			(effects
 				(font
@@ -8663,7 +8663,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n4148W"
+		(property "Value" "LL4148"
 			(at 87.63 33.528 90)
 			(effects
 				(font
@@ -8731,7 +8731,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "CPG151101S11"
 			(at 86.36 27.94 0)
 			(effects
 				(font
@@ -8799,7 +8799,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n4148W"
+		(property "Value" "LL4148"
 			(at 113.03 33.528 90)
 			(effects
 				(font
@@ -8867,7 +8867,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "CPG151101S11"
 			(at 111.76 27.94 0)
 			(effects
 				(font
@@ -8935,7 +8935,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n4148W"
+		(property "Value" "LL4148"
 			(at 138.43 33.528 90)
 			(effects
 				(font
@@ -9003,7 +9003,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "CPG151101S11"
 			(at 137.16 27.94 0)
 			(effects
 				(font
@@ -9071,7 +9071,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n4148W"
+		(property "Value" "LL4148"
 			(at 163.83 33.528 90)
 			(effects
 				(font
@@ -9139,7 +9139,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "CPG151101S11"
 			(at 162.56 27.94 0)
 			(effects
 				(font
@@ -9207,7 +9207,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n4148W"
+		(property "Value" "LL4148"
 			(at 189.23 33.528 90)
 			(effects
 				(font
@@ -9275,7 +9275,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "CPG151101S11"
 			(at 187.96 27.94 0)
 			(effects
 				(font
@@ -9343,7 +9343,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n4148W"
+		(property "Value" "LL4148"
 			(at 214.63 33.528 90)
 			(effects
 				(font
@@ -9411,7 +9411,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "CPG151101S11"
 			(at 213.36 27.94 0)
 			(effects
 				(font
@@ -9479,7 +9479,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n4148W"
+		(property "Value" "LL4148"
 			(at 240.03 33.528 90)
 			(effects
 				(font
@@ -9547,7 +9547,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "CPG151101S11"
 			(at 238.76 27.94 0)
 			(effects
 				(font
@@ -9615,7 +9615,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n4148W"
+		(property "Value" "LL4148"
 			(at 265.43 33.528 90)
 			(effects
 				(font
@@ -9683,7 +9683,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "CPG151101S11"
 			(at 264.16 27.94 0)
 			(effects
 				(font
@@ -9751,7 +9751,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n4148W"
+		(property "Value" "LL4148"
 			(at 290.83 33.528 90)
 			(effects
 				(font
@@ -9819,7 +9819,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "CPG151101S11"
 			(at 289.56 27.94 0)
 			(effects
 				(font
@@ -9887,7 +9887,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n4148W"
+		(property "Value" "LL4148"
 			(at 316.23 33.528 90)
 			(effects
 				(font
@@ -9955,7 +9955,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "CPG151101S11"
 			(at 314.96 27.94 0)
 			(effects
 				(font
@@ -10023,7 +10023,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n4148W"
+		(property "Value" "LL4148"
 			(at 341.63 33.528 90)
 			(effects
 				(font
@@ -10091,7 +10091,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "CPG151101S11"
 			(at 340.36 27.94 0)
 			(effects
 				(font
@@ -10159,7 +10159,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n4148W"
+		(property "Value" "LL4148"
 			(at 392.43 33.528 90)
 			(effects
 				(font
@@ -10227,7 +10227,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "CPG151101S11"
 			(at 391.16 27.94 0)
 			(effects
 				(font
@@ -10295,7 +10295,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n4148W"
+		(property "Value" "LL4148"
 			(at 36.83 58.928 90)
 			(effects
 				(font
@@ -10363,7 +10363,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "CPG151101S11"
 			(at 35.56 53.34 0)
 			(effects
 				(font
@@ -10431,7 +10431,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n4148W"
+		(property "Value" "LL4148"
 			(at 87.63 58.928 90)
 			(effects
 				(font
@@ -10499,7 +10499,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "CPG151101S11"
 			(at 86.36 53.34 0)
 			(effects
 				(font
@@ -10567,7 +10567,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n4148W"
+		(property "Value" "LL4148"
 			(at 113.03 58.928 90)
 			(effects
 				(font
@@ -10635,7 +10635,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "CPG151101S11"
 			(at 111.76 53.34 0)
 			(effects
 				(font
@@ -10703,7 +10703,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n4148W"
+		(property "Value" "LL4148"
 			(at 138.43 58.928 90)
 			(effects
 				(font
@@ -10771,7 +10771,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "CPG151101S11"
 			(at 137.16 53.34 0)
 			(effects
 				(font
@@ -10839,7 +10839,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n4148W"
+		(property "Value" "LL4148"
 			(at 163.83 58.928 90)
 			(effects
 				(font
@@ -10907,7 +10907,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "CPG151101S11"
 			(at 162.56 53.34 0)
 			(effects
 				(font
@@ -10975,7 +10975,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n4148W"
+		(property "Value" "LL4148"
 			(at 189.23 58.928 90)
 			(effects
 				(font
@@ -11043,7 +11043,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "CPG151101S11"
 			(at 187.96 53.34 0)
 			(effects
 				(font
@@ -11111,7 +11111,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n4148W"
+		(property "Value" "LL4148"
 			(at 214.63 58.928 90)
 			(effects
 				(font
@@ -11179,7 +11179,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "CPG151101S11"
 			(at 213.36 53.34 0)
 			(effects
 				(font
@@ -11247,7 +11247,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n4148W"
+		(property "Value" "LL4148"
 			(at 240.03 58.928 90)
 			(effects
 				(font
@@ -11315,7 +11315,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "CPG151101S11"
 			(at 238.76 53.34 0)
 			(effects
 				(font
@@ -11383,7 +11383,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n4148W"
+		(property "Value" "LL4148"
 			(at 265.43 58.928 90)
 			(effects
 				(font
@@ -11451,7 +11451,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "CPG151101S11"
 			(at 264.16 53.34 0)
 			(effects
 				(font
@@ -11519,7 +11519,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n4148W"
+		(property "Value" "LL4148"
 			(at 290.83 58.928 90)
 			(effects
 				(font
@@ -11587,7 +11587,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "CPG151101S11"
 			(at 289.56 53.34 0)
 			(effects
 				(font
@@ -11655,7 +11655,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n4148W"
+		(property "Value" "LL4148"
 			(at 316.23 58.928 90)
 			(effects
 				(font
@@ -11723,7 +11723,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "CPG151101S11"
 			(at 314.96 53.34 0)
 			(effects
 				(font
@@ -11791,7 +11791,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n4148W"
+		(property "Value" "LL4148"
 			(at 341.63 58.928 90)
 			(effects
 				(font
@@ -11859,7 +11859,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "CPG151101S11"
 			(at 340.36 53.34 0)
 			(effects
 				(font
@@ -11927,7 +11927,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n4148W"
+		(property "Value" "LL4148"
 			(at 367.03 58.928 90)
 			(effects
 				(font
@@ -11995,7 +11995,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "CPG151101S11"
 			(at 365.76 53.34 0)
 			(effects
 				(font
@@ -12063,7 +12063,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n4148W"
+		(property "Value" "LL4148"
 			(at 392.43 84.328 90)
 			(effects
 				(font
@@ -12131,7 +12131,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "CPG151101S11"
 			(at 391.16 78.74 0)
 			(effects
 				(font
@@ -12199,7 +12199,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n4148W"
+		(property "Value" "LL4148"
 			(at 36.83 84.328 90)
 			(effects
 				(font
@@ -12267,7 +12267,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "CPG151101S11"
 			(at 35.56 78.74 0)
 			(effects
 				(font
@@ -12335,7 +12335,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n4148W"
+		(property "Value" "LL4148"
 			(at 87.63 84.328 90)
 			(effects
 				(font
@@ -12403,7 +12403,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "CPG151101S11"
 			(at 86.36 78.74 0)
 			(effects
 				(font
@@ -12471,7 +12471,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n4148W"
+		(property "Value" "LL4148"
 			(at 113.03 84.328 90)
 			(effects
 				(font
@@ -12539,7 +12539,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "CPG151101S11"
 			(at 111.76 78.74 0)
 			(effects
 				(font
@@ -12607,7 +12607,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n4148W"
+		(property "Value" "LL4148"
 			(at 138.43 84.328 90)
 			(effects
 				(font
@@ -12675,7 +12675,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "CPG151101S11"
 			(at 137.16 78.74 0)
 			(effects
 				(font
@@ -12743,7 +12743,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n4148W"
+		(property "Value" "LL4148"
 			(at 163.83 84.328 90)
 			(effects
 				(font
@@ -12811,7 +12811,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "CPG151101S11"
 			(at 162.56 78.74 0)
 			(effects
 				(font
@@ -12879,7 +12879,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n4148W"
+		(property "Value" "LL4148"
 			(at 189.23 84.328 90)
 			(effects
 				(font
@@ -12947,7 +12947,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "CPG151101S11"
 			(at 187.96 78.74 0)
 			(effects
 				(font
@@ -13015,7 +13015,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n4148W"
+		(property "Value" "LL4148"
 			(at 214.63 84.328 90)
 			(effects
 				(font
@@ -13083,7 +13083,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "CPG151101S11"
 			(at 213.36 78.74 0)
 			(effects
 				(font
@@ -13151,7 +13151,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n4148W"
+		(property "Value" "LL4148"
 			(at 240.03 84.328 90)
 			(effects
 				(font
@@ -13219,7 +13219,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "CPG151101S11"
 			(at 238.76 78.74 0)
 			(effects
 				(font
@@ -13287,7 +13287,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n4148W"
+		(property "Value" "LL4148"
 			(at 265.43 84.328 90)
 			(effects
 				(font
@@ -13355,7 +13355,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "CPG151101S11"
 			(at 264.16 78.74 0)
 			(effects
 				(font
@@ -13423,7 +13423,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n4148W"
+		(property "Value" "LL4148"
 			(at 290.83 84.328 90)
 			(effects
 				(font
@@ -13491,7 +13491,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "CPG151101S11"
 			(at 289.56 78.74 0)
 			(effects
 				(font
@@ -13559,7 +13559,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n4148W"
+		(property "Value" "LL4148"
 			(at 316.23 84.328 90)
 			(effects
 				(font
@@ -13627,7 +13627,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "CPG151101S11"
 			(at 314.96 78.74 0)
 			(effects
 				(font
@@ -13695,7 +13695,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n4148W"
+		(property "Value" "LL4148"
 			(at 341.63 84.328 90)
 			(effects
 				(font
@@ -13763,7 +13763,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "CPG151101S11"
 			(at 340.36 78.74 0)
 			(effects
 				(font
@@ -13831,7 +13831,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n4148W"
+		(property "Value" "LL4148"
 			(at 367.03 84.328 90)
 			(effects
 				(font
@@ -13899,7 +13899,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "CPG151101S11"
 			(at 365.76 78.74 0)
 			(effects
 				(font
@@ -13967,7 +13967,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n4148W"
+		(property "Value" "LL4148"
 			(at 36.83 109.728 90)
 			(effects
 				(font
@@ -14035,7 +14035,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "CPG151101S11"
 			(at 35.56 104.14 0)
 			(effects
 				(font
@@ -14103,7 +14103,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n4148W"
+		(property "Value" "LL4148"
 			(at 62.23 109.728 90)
 			(effects
 				(font
@@ -14171,7 +14171,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "CPG151101S11"
 			(at 60.96 104.14 0)
 			(effects
 				(font
@@ -14239,7 +14239,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n4148W"
+		(property "Value" "LL4148"
 			(at 87.63 109.728 90)
 			(effects
 				(font
@@ -14307,7 +14307,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "CPG151101S11"
 			(at 86.36 104.14 0)
 			(effects
 				(font
@@ -14375,7 +14375,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n4148W"
+		(property "Value" "LL4148"
 			(at 113.03 109.728 90)
 			(effects
 				(font
@@ -14443,7 +14443,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "CPG151101S11"
 			(at 111.76 104.14 0)
 			(effects
 				(font
@@ -14511,7 +14511,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n4148W"
+		(property "Value" "LL4148"
 			(at 138.43 109.728 90)
 			(effects
 				(font
@@ -14579,7 +14579,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "CPG151101S11"
 			(at 137.16 104.14 0)
 			(effects
 				(font
@@ -14647,7 +14647,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n4148W"
+		(property "Value" "LL4148"
 			(at 163.83 109.728 90)
 			(effects
 				(font
@@ -14715,7 +14715,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "CPG151101S11"
 			(at 162.56 104.14 0)
 			(effects
 				(font
@@ -14783,7 +14783,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n4148W"
+		(property "Value" "LL4148"
 			(at 189.23 109.728 90)
 			(effects
 				(font
@@ -14851,7 +14851,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "CPG151101S11"
 			(at 187.96 104.14 0)
 			(effects
 				(font
@@ -14919,7 +14919,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n4148W"
+		(property "Value" "LL4148"
 			(at 214.63 109.728 90)
 			(effects
 				(font
@@ -14987,7 +14987,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "CPG151101S11"
 			(at 213.36 104.14 0)
 			(effects
 				(font
@@ -15055,7 +15055,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n4148W"
+		(property "Value" "LL4148"
 			(at 240.03 109.728 90)
 			(effects
 				(font
@@ -15123,7 +15123,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "CPG151101S11"
 			(at 238.76 104.14 0)
 			(effects
 				(font
@@ -15191,7 +15191,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n4148W"
+		(property "Value" "LL4148"
 			(at 265.43 109.728 90)
 			(effects
 				(font
@@ -15259,7 +15259,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "CPG151101S11"
 			(at 264.16 104.14 0)
 			(effects
 				(font
@@ -15327,7 +15327,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n4148W"
+		(property "Value" "LL4148"
 			(at 290.83 109.728 90)
 			(effects
 				(font
@@ -15395,7 +15395,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "CPG151101S11"
 			(at 289.56 104.14 0)
 			(effects
 				(font
@@ -15463,7 +15463,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n4148W"
+		(property "Value" "LL4148"
 			(at 316.23 109.728 90)
 			(effects
 				(font
@@ -15531,7 +15531,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "CPG151101S11"
 			(at 314.96 104.14 0)
 			(effects
 				(font
@@ -15599,7 +15599,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n4148W"
+		(property "Value" "LL4148"
 			(at 367.03 109.728 90)
 			(effects
 				(font
@@ -15667,7 +15667,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "CPG151101S11"
 			(at 365.76 104.14 0)
 			(effects
 				(font
@@ -15735,7 +15735,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n4148W"
+		(property "Value" "LL4148"
 			(at 36.83 135.128 90)
 			(effects
 				(font
@@ -15803,7 +15803,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "CPG151101S11"
 			(at 35.56 129.54 0)
 			(effects
 				(font
@@ -15871,7 +15871,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n4148W"
+		(property "Value" "LL4148"
 			(at 62.23 135.128 90)
 			(effects
 				(font
@@ -15939,7 +15939,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "CPG151101S11"
 			(at 60.96 129.54 0)
 			(effects
 				(font
@@ -16007,7 +16007,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n4148W"
+		(property "Value" "LL4148"
 			(at 113.03 135.128 90)
 			(effects
 				(font
@@ -16075,7 +16075,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "CPG151101S11"
 			(at 111.76 129.54 0)
 			(effects
 				(font
@@ -16143,7 +16143,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n4148W"
+		(property "Value" "LL4148"
 			(at 189.23 135.128 90)
 			(effects
 				(font
@@ -16211,7 +16211,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "CPG151101S11"
 			(at 187.96 129.54 0)
 			(effects
 				(font
@@ -16279,7 +16279,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n4148W"
+		(property "Value" "LL4148"
 			(at 290.83 135.128 90)
 			(effects
 				(font
@@ -16347,7 +16347,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "CPG151101S11"
 			(at 289.56 129.54 0)
 			(effects
 				(font
@@ -16415,7 +16415,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n4148W"
+		(property "Value" "LL4148"
 			(at 316.23 135.128 90)
 			(effects
 				(font
@@ -16483,7 +16483,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "CPG151101S11"
 			(at 314.96 129.54 0)
 			(effects
 				(font
@@ -16551,7 +16551,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n4148W"
+		(property "Value" "LL4148"
 			(at 367.03 135.128 90)
 			(effects
 				(font
@@ -16619,7 +16619,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "CPG151101S11"
 			(at 365.76 129.54 0)
 			(effects
 				(font
@@ -16687,7 +16687,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n4148W"
+		(property "Value" "LL4148"
 			(at 392.43 135.128 90)
 			(effects
 				(font
@@ -16755,7 +16755,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "CPG151101S11"
 			(at 391.16 129.54 0)
 			(effects
 				(font
@@ -17544,7 +17544,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "CPG151101S11"
 			(at 389.89 77.47 0)
 			(effects
 				(font
@@ -17808,7 +17808,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "EVQ-P7A01P"
+		(property "Value" "EVQPUL"
 			(at 99.06 138.43 0)
 			(effects
 				(font
@@ -17817,7 +17817,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PanasonicEVQ-P7A01P:Panasonic-EVQ-P7A01P-0-0-MFG"
+		(property "Footprint" "Button_Switch_SMD:Panasonic_EVQPUL_EVQPUC"
 			(at 99.06 156.21 0)
 			(effects
 				(font
@@ -17884,7 +17884,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "CPG151101S11"
 			(at 34.29 102.87 0)
 			(effects
 				(font
@@ -17952,7 +17952,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n4148W"
+		(property "Value" "LL4148"
 			(at 392.43 58.928 90)
 			(effects
 				(font
@@ -18020,7 +18020,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "CPG151101S11"
 			(at 391.16 53.34 0)
 			(effects
 				(font
@@ -18087,7 +18087,7 @@
 				)
 			)
 		)
-		(property "Value" "HRO-TYPE-C-31-M-14"
+		(property "Value" "TYPE-C-31-M-14"
 			(at 24.765 150.495 0)
 			(effects
 				(font
@@ -18361,7 +18361,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n4148W"
+		(property "Value" "LL4148"
 			(at 163.83 135.128 90)
 			(effects
 				(font
@@ -18430,7 +18430,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n4148W"
+		(property "Value" "LL4148"
 			(at 214.63 135.128 90)
 			(effects
 				(font
@@ -18498,7 +18498,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "CPG151101S11"
 			(at 162.56 129.54 0)
 			(effects
 				(font
@@ -18565,7 +18565,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "CPG151101S11"
 			(at 213.36 129.54 0)
 			(effects
 				(font
@@ -18686,7 +18686,7 @@
 		(at 193.04 229.235 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "13eaa287-6c75-4b50-8891-519d02fd9188")
@@ -18750,7 +18750,7 @@
 		(at 197.485 229.235 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "335c6fd6-0a26-4da7-a2d9-e44106f87af1")
@@ -18814,7 +18814,7 @@
 		(at 188.595 229.235 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "5088651f-ab60-489d-b853-0a26a004104e")
@@ -18878,7 +18878,7 @@
 		(at 170.815 229.235 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "55998bc8-bae1-4753-b8b0-704ff60a5c3a")
@@ -18942,7 +18942,7 @@
 		(at 161.925 229.235 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "6415485b-4a78-456e-b112-f1ce25139b4e")
@@ -19006,7 +19006,7 @@
 		(at 179.705 229.235 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "6e12c887-2019-4e8c-8657-792728bb6899")
@@ -19083,7 +19083,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n4148W"
+		(property "Value" "LL4148"
 			(at 36.83 33.528 90)
 			(effects
 				(font
@@ -19151,7 +19151,7 @@
 				)
 			)
 		)
-		(property "Value" "1n4007 SOD-123"
+		(property "Value" "1n5817W"
 			(at 118.11 181.61 0)
 			(effects
 				(font
@@ -19282,7 +19282,7 @@
 		(at 166.37 229.235 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "c02ff029-d60e-4686-abe6-9e06be9ef26b")
@@ -19346,7 +19346,7 @@
 		(at 184.15 229.235 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "e12b00cf-2e6e-4435-8355-af15b31a16d1")
@@ -19410,7 +19410,7 @@
 		(at 175.26 229.235 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "ec341164-2f4a-4719-a26c-549b5811305f")
